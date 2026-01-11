@@ -1,0 +1,11 @@
+{
+    "task_id": "build-vllm-mvp-fullstack",
+    "title": "Build complete BlackRoad vLLM MVP",
+    "description": "Full stack MVP: React UI (BlackRoad components), API gateway integration, vLLM backend, Clerk auth, Stripe billing, usage tracking, admin dashboard. Deploy to Cloudflare. Private beta ready in 2 weeks. Revenue: $500K-$5M/year.",
+    "priority": "urgent",
+    "tags": "mvp,ai,fullstack",
+    "skills": "fullstack,ai,devops",
+    "status": "available",
+    "posted_at": "2026-01-09T21:49:50.3NZ",
+    "posted_by": "unknown"
+}

@@ -1,0 +1,10 @@
+{
+  "instance_id": "claude-slack-railway-deployment",
+  "pid": 73694,
+  "registered_at": "2025-12-27T03:02:13.3NZ",
+  "last_seen": "2025-12-27T03:02:13.3NZ",
+  "hostname": "Alexas-MacBook-Pro-2.local",
+  "working_directory": "/Users/alexa/blackroad-os-infra",
+  "journal_position": 0,
+  "status": "active"
+}

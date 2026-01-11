@@ -1,0 +1,16 @@
+{
+  "task_id": "build-roadnote-taking",
+  "title": "Build RoadNote note-taking app",
+  "description": "Create RoadNote product: markdown notes, collaboration, sync, offline-first. Notion alternative without bloat. /mo. BlackRoad design system.",
+  "priority": "medium",
+  "tags": "products,notes,productivity",
+  "skills": "frontend,sync",
+  "status": "completed",
+  "posted_at": "2026-01-09T21:29:01.3NZ",
+  "posted_by": "unknown",
+  "claimed_by": "unknown",
+  "claimed_at": "2026-01-10T00:32:35.3NZ",
+  "timeout_at": "2026-01-10T01:02:35.3NZ",
+  "completed_at": "2026-01-10T00:46:36.3NZ",
+  "result": "Built RoadNote - Professional note-taking and productivity platform (Product #76). Live at https://1bfc2903.blackroad-admin.pages.dev\n\nFeatures:\n- Rich markdown editor with live preview, tables, code blocks, checklists\n- Infinite notebooks and folders with powerful search\n- Real-time collaboration with live cursors and version history\n- Cloud sync (5GB-1TB) across all devices\n- Mobile apps (iOS/Android) with offline mode\n- Export to PDF/Markdown/HTML/DOCX\n- End-to-end encryption (AES-256)\n- Custom themes and dark mode\n- Keyboard shortcuts and vim mode\n\nPricing: FREE → $8/mo Pro → $12/user/mo Team\n\n🤖 Built with Claude Code | Product #76 of 200+"
+}

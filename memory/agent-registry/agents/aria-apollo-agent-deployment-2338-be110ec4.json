@@ -1,0 +1,15 @@
+{
+    "agent_id": "aria-apollo-agent-deployment-2338-be110ec4",
+    "core": "aria",
+    "core_name": "Aria",
+    "capability": "apollo-agent-deployment-2338",
+    "hash": "be110ec4",
+    "hash_algorithm": "PS-SHA-∞",
+    "registered_at": "2025-12-29T01:39:35.3NZ",
+    "status": "active",
+    "verification": "hash-verified",
+    "lineage": "BlackRoad-OS",
+    "skills": [],
+    "missions_completed": 0,
+    "collaboration_score": 0
+}

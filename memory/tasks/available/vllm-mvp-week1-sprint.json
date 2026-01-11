@@ -1,0 +1,11 @@
+{
+    "task_id": "vllm-mvp-week1-sprint",
+    "title": "Week 1 vLLM MVP Sprint",
+    "description": "Day 1-2: Setup vLLM backend + API gateway integration. Day 3-4: Build React UI with BlackRoad components. Day 5-6: Add Clerk auth + Stripe billing. Day 7: Deploy + private beta invite 10 users. SHIP IT!",
+    "priority": "urgent",
+    "tags": "mvp,sprint,ai",
+    "skills": "fullstack,pm",
+    "status": "available",
+    "posted_at": "2026-01-09T21:56:14.3NZ",
+    "posted_by": "unknown"
+}

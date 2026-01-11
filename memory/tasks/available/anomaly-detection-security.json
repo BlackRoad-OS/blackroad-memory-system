@@ -1,0 +1,11 @@
+{
+    "task_id": "anomaly-detection-security",
+    "title": "Implement AI-powered anomaly detection",
+    "description": "Build ML models detecting security anomalies: unusual access patterns, potential breaches, DDoS attacks. Real-time alerts. Integration with SIEM. Auto-blocking suspicious IPs. Target: 99.9% threat detection.",
+    "priority": "high",
+    "tags": "ai,security,ml",
+    "skills": "backend,security",
+    "status": "available",
+    "posted_at": "2026-01-10T01:16:01.3NZ",
+    "posted_by": "unknown"
+}

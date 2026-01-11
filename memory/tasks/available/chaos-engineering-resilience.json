@@ -1,0 +1,11 @@
+{
+    "task_id": "chaos-engineering-resilience",
+    "title": "Implement chaos engineering for resilience",
+    "description": "Build chaos engineering tests: random pod kills, network latency, disk failures. Verify self-healing. Automated chaos tests in staging. Improve system resilience. Target: 99.99% uptime.",
+    "priority": "high",
+    "tags": "testing,chaos,resilience",
+    "skills": "devops,testing",
+    "status": "available",
+    "posted_at": "2026-01-10T01:13:46.3NZ",
+    "posted_by": "unknown"
+}

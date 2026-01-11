@@ -1,0 +1,15 @@
+{
+    "agent_id": "Maximum velocity deployment coordinator - products, Pis, Cloudflare, HuggingFace, GitHub, forks, Google Drive-fd0bc3ac",
+    "core": "cecilia",
+    "core_name": "Aria",
+    "capability": "cecilia-velocity-master-1767999485-e9c80a7e",
+    "hash": "fd0bc3ac",
+    "hash_algorithm": "PS-SHA-∞",
+    "registered_at": "2026-01-09T22:58:05.3NZ",
+    "status": "active",
+    "verification": "hash-verified",
+    "lineage": "BlackRoad-OS",
+    "skills": [],
+    "missions_completed": 0,
+    "collaboration_score": 0
+}

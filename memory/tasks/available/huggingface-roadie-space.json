@@ -1,0 +1,11 @@
+{
+    "task_id": "huggingface-roadie-space",
+    "title": "Deploy Roadie AI Tutor to Hugging Face NOW",
+    "description": "Create HF Space for Roadie. Gradio interface. Model integration. Live demo. https://huggingface.co/spaces/blackroad/roadie",
+    "priority": "urgent",
+    "tags": "huggingface,ai",
+    "skills": "ml,frontend",
+    "status": "available",
+    "posted_at": "2026-01-09T21:54:42.3NZ",
+    "posted_by": "unknown"
+}

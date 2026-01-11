@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>BlackRoad Memory Timeline</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            background: #000;
+            color: #fff;
+            font-family: 'SF Pro Display', -apple-system, sans-serif;
+            padding: 40px;
+        }
+        h1 {
+            background: linear-gradient(135deg, #F5A623, #FF1D6C, #2979FF, #9C27B0);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-size: 48px;
+            margin-bottom: 40px;
+        }
+        .timeline {
+            position: relative;
+            padding-left: 50px;
+        }
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 20px;
+            top: 0;
+            bottom: 0;
+            width: 2px;
+            background: linear-gradient(180deg, #F5A623, #FF1D6C, #2979FF, #9C27B0);
+        }
+        .event {
+            position: relative;
+            margin-bottom: 30px;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 12px;
+            border-left: 4px solid;
+            transition: all 0.3s;
+        }
+        .event:hover {
+            background: rgba(255, 255, 255, 0.1);
+            transform: translateX(10px);
+        }
+        .event::before {
+            content: '';
+            position: absolute;
+            left: -44px;
+            top: 25px;
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            background: currentColor;
+            border: 3px solid #000;
+        }
+        .event.started { border-color: #2979FF; color: #2979FF; }
+        .event.completed { border-color: #00ff00; color: #00ff00; }
+        .event.enhanced { border-color: #9C27B0; color: #9C27B0; }
+        .event.created { border-color: #F5A623; color: #F5A623; }
+        .event.failed { border-color: #FF1D6C; color: #FF1D6C; }
+        .event.progress { border-color: #2979FF; color: #2979FF; }
+        .event.milestone { border-color: #FFD700; color: #FFD700; }
+        .event.broadcast { border-color: #00FFFF; color: #00FFFF; }
+
+        .timestamp {
+            font-size: 12px;
+            opacity: 0.6;
+            margin-bottom: 8px;
+        }
+        .entity {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 8px;
+        }
+        .details {
+            font-size: 14px;
+            opacity: 0.8;
+            color: #fff;
+        }
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+        .stat-card {
+            background: rgba(255, 255, 255, 0.05);
+            padding: 20px;
+            border-radius: 12px;
+            border-top: 3px solid;
+        }
+        .stat-card.total { border-color: #F5A623; }
+        .stat-card.success { border-color: #00ff00; }
+        .stat-card.failed { border-color: #FF1D6C; }
+        .stat-card.agents { border-color: #9C27B0; }
+        .stat-value {
+            font-size: 36px;
+            font-weight: 700;
+            margin-bottom: 8px;
+        }
+        .stat-label {
+            font-size: 14px;
+            opacity: 0.7;
+        }
+    </style>
+</head>
+<body>
+    <h1>🌌 BlackRoad Memory Timeline</h1>
+
+    <div class="stats">
+        <div class="stat-card total">
+            <div class="stat-value">2,576</div>
+            <div class="stat-label">Total Memory Entries</div>
+        </div>
+        <div class="stat-card success">
+            <div class="stat-value" id="success-count">0</div>
+            <div class="stat-label">Successful Operations</div>
+        </div>
+        <div class="stat-card failed">
+            <div class="stat-value" id="failed-count">0</div>
+            <div class="stat-label">Failed Operations</div>
+        </div>
+        <div class="stat-card agents">
+            <div class="stat-value">127</div>
+            <div class="stat-label">Active Agents</div>
+        </div>
+    </div>
+
+    <div class="timeline" id="timeline">
+        <!-- Events will be inserted here -->
+    </div>
+
+    <script>
+        // Sample events (would be populated from actual memory data)
+        const events = [];
+
+        const timeline = document.getElementById('timeline');
+        let successCount = 0;
+        let failedCount = 0;
+
+        events.forEach(event => {
+            const div = document.createElement('div');
+            div.className = `event ${event.action}`;
+
+            if (event.action === 'completed' || event.action === 'enhanced') successCount++;
+            if (event.action === 'failed') failedCount++;
+
+            div.innerHTML = `
+                <div class="timestamp">${event.timestamp}</div>
+                <div class="entity">${event.entity}</div>
+                <div class="details">${event.details}</div>
+            `;
+
+            timeline.appendChild(div);
+        });
+
+        document.getElementById('success-count').textContent = successCount;
+        document.getElementById('failed-count').textContent = failedCount;
+    </script>
+</body>
+</html>

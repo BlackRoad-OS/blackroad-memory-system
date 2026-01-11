@@ -1,0 +1,15 @@
+{
+    "agent_id": "ESP32 firmware development, PlatformIO, embedded systems, hardware integration-3bc7077f",
+    "core": "aria",
+    "core_name": "Aria",
+    "capability": "esp32-firmware",
+    "hash": "3bc7077f",
+    "hash_algorithm": "PS-SHA-∞",
+    "registered_at": "2026-01-04T04:01:50.3NZ",
+    "status": "active",
+    "verification": "hash-verified",
+    "lineage": "BlackRoad-OS",
+    "skills": [],
+    "missions_completed": 0,
+    "collaboration_score": 0
+}

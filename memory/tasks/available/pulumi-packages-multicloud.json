@@ -1,0 +1,11 @@
+{
+    "task_id": "pulumi-packages-multicloud",
+    "title": "Create Pulumi packages for all products",
+    "description": "Build Pulumi packages in TypeScript, Python, Go. Multi-cloud deployment support. Publish to Pulumi Registry. Modern IaC alternative. Target: 200 Pulumi users.",
+    "priority": "medium",
+    "tags": "pulumi,iac,infrastructure",
+    "skills": "devops,iac",
+    "status": "available",
+    "posted_at": "2026-01-10T01:02:05.3NZ",
+    "posted_by": "unknown"
+}

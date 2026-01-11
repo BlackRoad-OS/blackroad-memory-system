@@ -1,0 +1,104 @@
+{
+  "key": "alexa_spaces_config",
+  "value": {
+    "owner": "Alexa Louise Amundson",
+    "emails": ["amundsonalexa@gmail.com", "blackroad.systems@gmail.com"],
+    "created": "2025-12-02",
+    "spaces": {
+      "BLACKROAD_HQ": {
+        "description": "BlackRoad core infrastructure and company operations",
+        "color": "#FF0066",
+        "tabs": [
+          {"url": "https://blackroad.io/", "purpose": "Main site"},
+          {"url": "https://blackroad.io/codex/", "purpose": "Codex Knowledge Base"},
+          {"url": "https://blackroad.io/lucidia/", "purpose": "Lucidia AI"},
+          {"url": "https://blackroad.io/guardian/", "purpose": "Guardian Security"},
+          {"url": "https://blackroadinc.us/", "purpose": "Inc site"},
+          {"url": "https://blackroad.systems/", "purpose": "Systems (needs fix - 522)"},
+          {"url": "https://blackroad-2-0.design.webflow.com/", "purpose": "Webflow design"}
+        ]
+      },
+      "INFRASTRUCTURE": {
+        "description": "Servers, cloud, and deployment",
+        "color": "#0066FF",
+        "tabs": [
+          {"url": "https://cloud.digitalocean.com/", "purpose": "DigitalOcean - codex-infinity droplet 159.65.43.12"},
+          {"url": "https://dash.cloudflare.com/848cf0b18d51e0170e0d1537aec3505a/", "purpose": "Cloudflare - 16 zones"},
+          {"url": "https://railway.com/dashboard", "purpose": "Railway - 12+ projects"},
+          {"url": "https://github.com/", "purpose": "GitHub - blackboxprogramming org"},
+          {"url": "http://159.65.43.12:5000/", "purpose": "Codex Infinity Portal"},
+          {"url": "http://159.65.43.12:5050/", "purpose": "Codex port 5050"},
+          {"url": "http://159.65.43.12:8080/", "purpose": "Codex port 8080"}
+        ]
+      },
+      "CRYPTO_FINANCE": {
+        "description": "Wallets, exchanges, and financial services",
+        "color": "#FF9D00",
+        "tabs": [
+          {"url": "https://metamask.io/", "purpose": "MetaMask - 2.5 ETH"},
+          {"url": "https://www.coinbase.com/home", "purpose": "Coinbase - 0.1 BTC"},
+          {"url": "https://www.bitcoin.com/", "purpose": "Bitcoin.com"},
+          {"url": "https://dashboard.stripe.com/", "purpose": "Stripe payments"},
+          {"url": "https://wallet.google.com/", "purpose": "Google Wallet"}
+        ]
+      },
+      "AI_TOOLS": {
+        "description": "AI assistants and ML platforms",
+        "color": "#7700FF",
+        "tabs": [
+          {"url": "https://claude.ai/", "purpose": "Claude AI"},
+          {"url": "https://chatgpt.com/", "purpose": "ChatGPT"},
+          {"url": "https://huggingface.co/", "purpose": "Hugging Face"},
+          {"url": "https://share.streamlit.io/user/blackboxprogramming", "purpose": "Streamlit apps"}
+        ]
+      },
+      "PRODUCTIVITY": {
+        "description": "Task management and scheduling",
+        "color": "#FF6B00",
+        "tabs": [
+          {"url": "https://app.asana.com/", "purpose": "Asana tasks"},
+          {"url": "https://calendar.google.com/", "purpose": "Google Calendar"},
+          {"url": "https://airtable.com/", "purpose": "Airtable"},
+          {"url": "https://accounts.google.com/", "purpose": "Gmail"}
+        ]
+      },
+      "CAREER": {
+        "description": "Job search and professional development",
+        "color": "#D600AA",
+        "tabs": [
+          {"url": "https://www.aegon.com/careers/vacancies", "purpose": "Aegon careers"},
+          {"url": "https://careers.allianz.com/", "purpose": "Allianz careers"},
+          {"url": "https://transamerica.wd5.myworkdayjobs.com/", "purpose": "Transamerica jobs"},
+          {"url": "https://job-boards.greenhouse.io/affirm", "purpose": "Affirm jobs"},
+          {"url": "https://jobs.fidelity.com/", "purpose": "Fidelity careers"}
+        ]
+      },
+      "EDUCATION": {
+        "description": "Learning resources and university",
+        "color": "#FF006B",
+        "tabs": [
+          {"url": "https://www.myu.umn.edu/", "purpose": "UMN Student Center"},
+          {"url": "https://ocw.mit.edu/", "purpose": "MIT OpenCourseWare"},
+          {"url": "https://python101.pythonlibrary.org/", "purpose": "Python learning"},
+          {"url": "https://www.wikipedia.org/", "purpose": "Wikipedia"}
+        ]
+      },
+      "MEDIA": {
+        "description": "Entertainment and content",
+        "color": "#FF9D00",
+        "tabs": [
+          {"url": "https://youtube.com/", "purpose": "YouTube"},
+          {"url": "https://www.youtube.com/@TheBrowserCompany", "purpose": "Browser Company channel"},
+          {"url": "https://maps.google.com/", "purpose": "Google Maps"}
+        ]
+      }
+    },
+    "local_services": {
+      "arc_api": "http://127.0.0.1:3848",
+      "localhost_8501": "http://localhost:8501 - Blockchain Wallet dev",
+      "localhost_5000": "http://127.0.0.1:5000 - Holo Memory Console"
+    },
+    "notes": "68 tabs active. BlackRoad.systems showing 522 error - needs tunnel check. server_ip placeholders need replacement with 159.65.43.12"
+  },
+  "tags": ["alexa", "spaces", "arc", "config", "agent-reference"]
+}

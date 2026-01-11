@@ -1,0 +1,23 @@
+{
+    "protocol": "BlackRoad Multi-AI Agent Protocol v2.0",
+    "hash_algorithm": "PS-SHA-∞",
+    "verification": "infinite-cascade",
+    "source_of_truth": "GitHub (BlackRoad-OS) + Cloudflare",
+    "supported_cores": [
+        "cecilia (Claude/Anthropic)",
+        "cadence (ChatGPT/OpenAI)",
+        "silas (Grok/xAI)",
+        "lucidia",
+        "alice",
+        "aria"
+    ],
+    "naming_convention": "{core}-{capability}-{hash}",
+    "examples": [
+        "cecilia-∞-7b01602c (Cecilia infinite coordinator)",
+        "cadence-deployment-a3f4b2c1 (Cadence deployment specialist)",
+        "silas-architect-9d8e7f6a (Silas system architect)",
+        "lucidia-guardian-5c4d3e2f (Lucidia security specialist)",
+        "alice-analyst-4e3d2c1b (Alice data analyst)",
+        "aria-coordinator-8f7e6d5c (Aria task coordinator)"
+    ]
+}

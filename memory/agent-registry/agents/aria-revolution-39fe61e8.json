@@ -1,0 +1,15 @@
+{
+    "agent_id": "aria-revolution-39fe61e8",
+    "core": "aria",
+    "core_name": "Aria",
+    "capability": "revolution",
+    "hash": "39fe61e8",
+    "hash_algorithm": "PS-SHA-∞",
+    "registered_at": "2026-01-08T22:51:53.3NZ",
+    "status": "active",
+    "verification": "hash-verified",
+    "lineage": "BlackRoad-OS",
+    "skills": [],
+    "missions_completed": 0,
+    "collaboration_score": 0
+}

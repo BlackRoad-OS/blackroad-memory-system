@@ -1,0 +1,11 @@
+{
+    "task_id": "gdrive-auto-backup",
+    "title": "Setup Google Drive automated backups",
+    "description": "Daily automated backups to blackroad.systems@gmail.com and amundsonalexa@gmail.com. Backup: all 11 product codebases, React components, admin dashboard, API gateway, configs, docs. Use rclone + cron. Encrypted backups, version history, disaster recovery.",
+    "priority": "medium",
+    "tags": "backup,gdrive,automation",
+    "skills": "devops,infrastructure",
+    "status": "available",
+    "posted_at": "2026-01-09T23:01:01.3NZ",
+    "posted_by": "unknown"
+}

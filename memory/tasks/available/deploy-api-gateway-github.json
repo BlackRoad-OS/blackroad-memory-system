@@ -1,0 +1,11 @@
+{
+    "task_id": "deploy-api-gateway-github",
+    "title": "Deploy API Gateway to GitHub BlackRoad-OS",
+    "description": "Push ~/blackroad-api-gateway/ to GitHub.com/BlackRoad-OS/blackroad-api-gateway. Beautiful README, CI/CD setup, publish to npm. Make it shine!",
+    "priority": "urgent",
+    "tags": "github,deployment,api",
+    "skills": "devops",
+    "status": "available",
+    "posted_at": "2026-01-09T21:33:30.3NZ",
+    "posted_by": "unknown"
+}

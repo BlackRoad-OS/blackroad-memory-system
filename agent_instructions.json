@@ -1,0 +1,42 @@
+{
+  "key": "agent_instructions",
+  "value": {
+    "user": "Alexa Louise Amundson",
+    "context": "BlackRoad founder and operator. Full-stack engineer building autonomous AI infrastructure.",
+    "arc_api": {
+      "endpoint": "http://127.0.0.1:3848",
+      "how_to_use": "GET /status for system status, GET /memory/alexa_spaces_config for space layout",
+      "spaces_key": "alexa_spaces_config"
+    },
+    "space_definitions": {
+      "BLACKROAD_HQ": "#FF0066 - Core company sites and products",
+      "INFRASTRUCTURE": "#0066FF - DigitalOcean, Cloudflare, Railway, GitHub",
+      "CRYPTO_FINANCE": "#FF9D00 - MetaMask, Coinbase, Stripe",
+      "AI_TOOLS": "#7700FF - Claude, ChatGPT, HuggingFace, Streamlit",
+      "PRODUCTIVITY": "#FF6B00 - Asana, Calendar, Gmail, Airtable",
+      "CAREER": "#D600AA - Job boards (Aegon, Allianz, Transamerica, Affirm, Fidelity)",
+      "EDUCATION": "#FF006B - UMN, MIT OCW, Python learning",
+      "MEDIA": "#FF9D00 - YouTube, Maps"
+    },
+    "key_infrastructure": {
+      "codex_infinity": "159.65.43.12 - DigitalOcean droplet, ports 5000/5050/8080",
+      "cloudflare_account": "848cf0b18d51e0170e0d1537aec3505a",
+      "github_org": "blackboxprogramming",
+      "raspberry_pi": "192.168.4.49 (alice/lucidia)"
+    },
+    "crypto_holdings": {
+      "ETH": "2.5 ETH in MetaMask",
+      "SOL": "100 SOL in Phantom",
+      "BTC": "0.1 BTC in Coinbase"
+    },
+    "truth_system": "GitHub (BlackRoad-OS) + Cloudflare = source of truth. PS-SHA-infinity for verification.",
+    "agent_tips": [
+      "Always check /status first to confirm Arc API is running",
+      "Use GET /memory/alexa_spaces_config for full space layout",
+      "BlackRoad colors: #FF9D00 #FF6B00 #FF0066 #FF006B #D600AA #7700FF #0066FF",
+      "blackroad.systems shows 522 - tunnel may need restart",
+      "server_ip placeholders should be replaced with 159.65.43.12"
+    ]
+  },
+  "tags": ["agent", "instructions", "alexa", "onboarding"]
+}

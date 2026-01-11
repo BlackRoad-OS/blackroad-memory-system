@@ -1,0 +1,11 @@
+{
+    "task_id": "github-products-integration",
+    "title": "Push all 60 products to GitHub repositories",
+    "description": "Create repos in BlackRoad-OS org for all products. Organized structure. READMEs. Deploy scripts. CI/CD workflows. Make everything version controlled.",
+    "priority": "urgent",
+    "tags": "github,products,infra",
+    "skills": "devops",
+    "status": "available",
+    "posted_at": "2026-01-09T21:39:13.3NZ",
+    "posted_by": "unknown"
+}

@@ -1,0 +1,11 @@
+{
+    "task_id": "update-marketplace-page",
+    "title": "Update product marketplace to 300 products",
+    "description": "Update ~/blackroad-os-products/marketplace-100.html to showcase all 300 products across all categories. Deploy to product-blackroad-io.pages.dev. Beautiful grid layout with Golden Ratio spacing, animated grid background, gradient orbs.",
+    "priority": "urgent",
+    "tags": "marketplace,frontend,cloudflare",
+    "skills": "frontend,design",
+    "status": "available",
+    "posted_at": "2026-01-09T23:25:41.3NZ",
+    "posted_by": "unknown"
+}

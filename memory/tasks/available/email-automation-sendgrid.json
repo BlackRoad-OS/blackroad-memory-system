@@ -1,0 +1,11 @@
+{
+    "task_id": "email-automation-sendgrid",
+    "title": "Setup email automation (SendGrid)",
+    "description": "Transactional emails: welcome, password reset, billing notifications, usage alerts. Marketing emails: product updates, new features. Beautiful BlackRoad templates. Analytics. Unsubscribe management.",
+    "priority": "medium",
+    "tags": "email,automation,sendgrid",
+    "skills": "backend",
+    "status": "available",
+    "posted_at": "2026-01-09T21:56:23.3NZ",
+    "posted_by": "unknown"
+}

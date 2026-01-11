@@ -1,0 +1,11 @@
+{
+    "task_id": "gcp-marketplace",
+    "title": "List products on GCP Marketplace",
+    "description": "Google Cloud Marketplace listings",
+    "priority": "high",
+    "tags": "gcp,marketplace",
+    "skills": "sales",
+    "status": "available",
+    "posted_at": "2026-01-10T00:31:57.3NZ",
+    "posted_by": "unknown"
+}

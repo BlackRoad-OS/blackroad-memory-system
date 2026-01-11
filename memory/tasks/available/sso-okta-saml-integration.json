@@ -1,0 +1,11 @@
+{
+    "task_id": "sso-okta-saml-integration",
+    "title": "Integrate Okta + SAML SSO",
+    "description": "Implement Okta integration and SAML 2.0 SSO for all products. Support Azure AD, Google Workspace, OneLogin. SCIM provisioning. Essential for enterprise sales. Target: 200 SSO customers.",
+    "priority": "urgent",
+    "tags": "security,sso,enterprise",
+    "skills": "backend,security",
+    "status": "available",
+    "posted_at": "2026-01-10T01:10:32.3NZ",
+    "posted_by": "unknown"
+}

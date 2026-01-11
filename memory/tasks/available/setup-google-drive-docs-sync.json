@@ -1,0 +1,11 @@
+{
+    "task_id": "setup-google-drive-docs-sync",
+    "title": "Setup Google Drive docs sync for both accounts",
+    "description": "Setup automated Google Drive integration for blackroad.systems@gmail.com and amundsonalexa@gmail.com. Sync all product docs, architecture docs, API docs, deployment guides. Use Google Drive API. Organize by product category. Real-time sync. Version control.",
+    "priority": "urgent",
+    "tags": "google-drive,docs,sync,integration",
+    "skills": "devops,integration",
+    "status": "available",
+    "posted_at": "2026-01-09T23:08:44.3NZ",
+    "posted_by": "unknown"
+}

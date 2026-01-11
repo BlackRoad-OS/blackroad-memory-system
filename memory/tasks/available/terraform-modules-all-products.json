@@ -1,0 +1,11 @@
+{
+    "task_id": "terraform-modules-all-products",
+    "title": "Create Terraform modules for infrastructure",
+    "description": "Terraform modules for deploying all products: Cloudflare, AWS, GCP, Azure. Variables for customization. Best practices. Examples. Make infrastructure-as-code trivial!",
+    "priority": "medium",
+    "tags": "terraform,iac,infrastructure",
+    "skills": "devops,terraform",
+    "status": "available",
+    "posted_at": "2026-01-09T22:07:58.3NZ",
+    "posted_by": "unknown"
+}

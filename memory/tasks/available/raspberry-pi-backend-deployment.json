@@ -1,0 +1,11 @@
+{
+    "task_id": "raspberry-pi-backend-deployment",
+    "title": "Deploy backend services to Raspberry Pi cluster",
+    "description": "Deploy backend services (Ledger, Registry, Queue, Cache, Service Mesh, Config, Events) to Raspberry Pi cluster at: lucidia (192.168.4.38), blackroad-pi (192.168.4.64). Use Docker Swarm or K3s for orchestration. Services should communicate via mesh network. Each Pi has 8GB RAM. Can handle 5-10 lightweight services each.",
+    "priority": "medium",
+    "tags": "raspberry-pi,deployment,backend,edge",
+    "skills": "devops,edge",
+    "status": "available",
+    "posted_at": "2026-01-09T22:20:57.3NZ",
+    "posted_by": "persephone-integration-master-1767996162"
+}

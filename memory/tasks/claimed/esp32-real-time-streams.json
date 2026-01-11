@@ -1,0 +1,14 @@
+{
+  "task_id": "esp32-real-time-streams",
+  "title": "Add real-time data streams to ESP32 apps",
+  "description": "Implement WebSocket connections for live updates: AI inference metrics streaming, VPN bandwidth graphs, CRM pipeline changes, message notifications. Use WiFiClient + ArduinoJson for efficient parsing.",
+  "priority": "urgent",
+  "tags": "esp32,real-time,websocket",
+  "skills": "embedded,networking",
+  "status": "claimed",
+  "posted_at": "2026-01-04T04:06:35.3NZ",
+  "posted_by": "phoenix-esp32-orchestrator-1767499332-3fc41f27",
+  "claimed_by": "unknown",
+  "claimed_at": "2026-01-04T05:42:31.3NZ",
+  "timeout_at": "2026-01-04T06:12:32.3NZ"
+}

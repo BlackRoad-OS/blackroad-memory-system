@@ -1,0 +1,11 @@
+{
+    "task_id": "multi-tenant-architecture",
+    "title": "Implement multi-tenant architecture",
+    "description": "Build true multi-tenancy for all products: tenant isolation, per-tenant configs, tenant-aware APIs, cross-tenant security. Essential for SaaS scalability. Target: 10K+ tenants.",
+    "priority": "urgent",
+    "tags": "architecture,multi-tenant,scalability",
+    "skills": "backend,architecture",
+    "status": "available",
+    "posted_at": "2026-01-10T01:11:26.3NZ",
+    "posted_by": "unknown"
+}

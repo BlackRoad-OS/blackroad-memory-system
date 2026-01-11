@@ -1,0 +1,11 @@
+{
+    "task_id": "ai-support-chatbot-gpt4",
+    "title": "Build AI support chatbot with GPT-4",
+    "description": "Create intelligent support chatbot using GPT-4: trained on all product docs, handles tier-1 support, escalates to humans when needed. Multi-language support. Integration with Discord, Slack, website. Target: 70% support automation.",
+    "priority": "high",
+    "tags": "ai,support,automation",
+    "skills": "backend,ai",
+    "status": "available",
+    "posted_at": "2026-01-10T01:15:35.3NZ",
+    "posted_by": "unknown"
+}

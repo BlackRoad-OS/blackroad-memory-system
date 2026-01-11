@@ -1,0 +1,11 @@
+{
+    "task_id": "gcp-marketplace-listings",
+    "title": "List all products on GCP Marketplace",
+    "description": "Create GCP VM images and containers for all 40 products. Google Cloud Marketplace listings. Integration with Google Cloud Billing. One-click deployment to GKE. Target: 500 GCP customers.",
+    "priority": "high",
+    "tags": "cloud,gcp,marketplace",
+    "skills": "devops,cloud",
+    "status": "available",
+    "posted_at": "2026-01-10T00:58:09.3NZ",
+    "posted_by": "unknown"
+}

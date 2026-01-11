@@ -1,0 +1,10 @@
+{
+  "instance_id": "claude-cross-repo-automation",
+  "pid": 91785,
+  "registered_at": "2025-12-27T03:36:54.3NZ",
+  "last_seen": "2025-12-27T03:36:54.3NZ",
+  "hostname": "Alexas-MacBook-Pro-2.local",
+  "working_directory": "/Users/alexa/blackroad-os-infra",
+  "journal_position": 0,
+  "status": "active"
+}

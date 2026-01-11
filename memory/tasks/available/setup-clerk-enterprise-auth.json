@@ -1,0 +1,11 @@
+{
+    "task_id": "setup-clerk-enterprise-auth",
+    "title": "Setup Clerk for all BlackRoad products",
+    "description": "Integrate Clerk across all products. Branded sign-in/up. SSO. SAML. User management. Admin dashboard. Use Clerk Pro plan.",
+    "priority": "urgent",
+    "tags": "clerk,auth,integration",
+    "skills": "fullstack",
+    "status": "available",
+    "posted_at": "2026-01-09T21:35:09.3NZ",
+    "posted_by": "unknown"
+}

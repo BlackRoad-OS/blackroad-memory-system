@@ -1,0 +1,11 @@
+{
+    "task_id": "chrome-extension-dashboard",
+    "title": "Build Chrome extension for quick access",
+    "description": "Create Chrome extension: popup dashboard showing all 40 products status, one-click deploy, notifications for errors/updates. Beautiful BlackRoad Golden Ratio design.",
+    "priority": "medium",
+    "tags": "developer-tools,chrome,extension",
+    "skills": "frontend,extension",
+    "status": "available",
+    "posted_at": "2026-01-10T00:53:40.3NZ",
+    "posted_by": "unknown"
+}

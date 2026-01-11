@@ -1,0 +1,11 @@
+{
+    "task_id": "digitalocean-marketplace-apps",
+    "title": "List products on DigitalOcean Marketplace",
+    "description": "Create DigitalOcean 1-Click Apps for all products. Droplet images + Kubernetes operator. DigitalOcean Marketplace approval process. Target: 200 DO customers.",
+    "priority": "medium",
+    "tags": "cloud,digitalocean,marketplace",
+    "skills": "devops,cloud",
+    "status": "available",
+    "posted_at": "2026-01-10T00:58:35.3NZ",
+    "posted_by": "unknown"
+}

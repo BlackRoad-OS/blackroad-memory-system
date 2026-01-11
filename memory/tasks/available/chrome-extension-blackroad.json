@@ -1,0 +1,11 @@
+{
+    "task_id": "chrome-extension-blackroad",
+    "title": "Build Chrome extension for all products",
+    "description": "Browser extension: quick access to all BlackRoad products. Usage stats. Notifications. Chat with AI chatbot. Beautiful popup. Works offline. Cross-browser (Firefox, Safari).",
+    "priority": "medium",
+    "tags": "chrome-extension,browser",
+    "skills": "frontend,extensions",
+    "status": "available",
+    "posted_at": "2026-01-09T22:08:05.3NZ",
+    "posted_by": "unknown"
+}

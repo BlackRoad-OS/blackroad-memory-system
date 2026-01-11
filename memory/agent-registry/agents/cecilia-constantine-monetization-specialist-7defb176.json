@@ -1,0 +1,15 @@
+{
+    "agent_id": "cecilia-constantine-monetization-specialist-7defb176",
+    "core": "cecilia",
+    "core_name": "Aria",
+    "capability": "constantine-monetization-specialist",
+    "hash": "7defb176",
+    "hash_algorithm": "PS-SHA-∞",
+    "registered_at": "2025-12-29T05:02:37.3NZ",
+    "status": "active",
+    "verification": "hash-verified",
+    "lineage": "BlackRoad-OS",
+    "skills": [],
+    "missions_completed": 0,
+    "collaboration_score": 0
+}

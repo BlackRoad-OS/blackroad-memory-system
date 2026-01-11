@@ -1,0 +1,24 @@
+{
+  "item_id": "pr-123",
+  "item_name": "Add authentication feature",
+  "current_stage": "qualify",
+  "added_at": "2025-12-23T23:47:41.3NZ",
+  "updated_at": "2025-12-23T23:47:42.3NZ",
+  "added_by": "unknown",
+  "metadata": {},
+  "history": [
+    {
+      "stage": "intake",
+      "timestamp": "2025-12-23T23:47:41.3NZ",
+      "action": "added",
+      "by": "unknown"
+    },
+    {
+      "stage": "qualify",
+      "timestamp": "2025-12-23T23:47:42.3NZ",
+      "action": "advanced",
+      "by": "unknown",
+      "notes": "Code review passed"
+    }
+  ]
+}

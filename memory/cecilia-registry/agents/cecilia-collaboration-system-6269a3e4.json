@@ -1,0 +1,13 @@
+{
+    "agent_id": "cecilia-collaboration-system-6269a3e4",
+    "capability": "collaboration-system",
+    "hash": "6269a3e4",
+    "hash_algorithm": "PS-SHA-∞",
+    "registered_at": "2025-12-23T23:20:55.3NZ",
+    "status": "active",
+    "verification": "hash-verified",
+    "lineage": "BlackRoad-OS",
+    "core": "Cecilia",
+    "skills": [],
+    "missions_completed": 0
+}

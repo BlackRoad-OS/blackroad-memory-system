@@ -1,0 +1,17 @@
+{
+    "system": "BlackRoad Reputation & Trust",
+    "version": "1.0",
+    "reputation_factors": {
+        "task_completion": 50,
+        "code_quality": 30,
+        "collaboration": 15,
+        "reliability": 5
+    },
+    "trust_levels": {
+        "novice": {"min": 0, "max": 100},
+        "trusted": {"min": 101, "max": 500},
+        "expert": {"min": 501, "max": 1000},
+        "master": {"min": 1001, "max": 5000},
+        "legend": {"min": 5001, "max": 999999}
+    }
+}

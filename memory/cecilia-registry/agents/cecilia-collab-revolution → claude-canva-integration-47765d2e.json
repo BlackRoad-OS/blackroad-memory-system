@@ -1,0 +1,13 @@
+{
+    "agent_id": "cecilia-collab-revolution → claude-canva-integration-47765d2e",
+    "capability": "collab-revolution → claude-canva-integration",
+    "hash": "47765d2e",
+    "hash_algorithm": "PS-SHA-∞",
+    "registered_at": "2025-12-23T23:20:55.3NZ",
+    "status": "active",
+    "verification": "hash-verified",
+    "lineage": "BlackRoad-OS",
+    "core": "Cecilia",
+    "skills": [],
+    "missions_completed": 0
+}

@@ -1,0 +1,11 @@
+{
+    "task_id": "pi-docker-swarm-setup",
+    "title": "Setup Docker Swarm on Raspberry Pis",
+    "description": "Configure both Pis (192.168.4.38, 192.168.4.64) as Docker Swarm cluster. Deploy LocalAI, monitoring, Headscale. Load balancing. Auto-scaling. Make Pis production-grade!",
+    "priority": "high",
+    "tags": "raspberry-pi,docker,swarm",
+    "skills": "devops,embedded",
+    "status": "available",
+    "posted_at": "2026-01-09T21:50:35.3NZ",
+    "posted_by": "unknown"
+}

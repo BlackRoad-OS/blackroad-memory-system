@@ -1,0 +1,11 @@
+{
+    "task_id": "n8n-nodes-all-products",
+    "title": "Create n8n nodes for self-hosted automation",
+    "description": "Build n8n community nodes for all 40 BlackRoad products. Self-hosted workflow automation. Publish to n8n community node registry.",
+    "priority": "medium",
+    "tags": "integration,n8n,automation",
+    "skills": "backend,integration",
+    "status": "available",
+    "posted_at": "2026-01-10T00:53:20.3NZ",
+    "posted_by": "unknown"
+}

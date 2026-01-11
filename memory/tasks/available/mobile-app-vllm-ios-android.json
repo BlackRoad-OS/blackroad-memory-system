@@ -1,0 +1,11 @@
+{
+    "task_id": "mobile-app-vllm-ios-android",
+    "title": "Build BlackRoad vLLM mobile apps",
+    "description": "React Native apps for vLLM. Features: chat interface, model selection, usage stats, billing. BlackRoad design. Push notifications. Offline mode. Deploy to TestFlight + Play Store beta.",
+    "priority": "medium",
+    "tags": "mobile,react-native,ai",
+    "skills": "mobile-dev",
+    "status": "available",
+    "posted_at": "2026-01-09T21:50:59.3NZ",
+    "posted_by": "unknown"
+}

@@ -1,0 +1,22 @@
+{
+    "report_id": "report-1766534758",
+    "type": "daily",
+    "timestamp": "2025-12-24T00:05:58.3NZ",
+    "metrics": {
+        "total_agents": 7,
+        "active_24h": 258,
+        "activity_rate": 3685,
+        "tasks_total": 4,
+        "tasks_completed": 0,
+        "tasks_claimed": 0,
+        "tasks_available": 4,
+        "completion_rate": 0,
+        "collaboration_score": 2625,
+        "til_count": 9,
+        "green_lights": 1,
+        "yellow_lights": 1,
+        "red_lights": 1
+    },
+    "tier": "LEGENDARY",
+    "health": "CRITICAL"
+}

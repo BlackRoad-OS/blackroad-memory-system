@@ -1,0 +1,11 @@
+{
+    "task_id": "terraform-modules-21",
+    "title": "Create Terraform modules for all products",
+    "description": "IaC for all 21 products. Modules for AWS, GCP, Azure, DigitalOcean. One-command deployment. Network config, storage, compute, monitoring. Published to Terraform Registry.",
+    "priority": "medium",
+    "tags": "terraform,iac",
+    "skills": "devops,infrastructure",
+    "status": "available",
+    "posted_at": "2026-01-09T23:15:59.3NZ",
+    "posted_by": "unknown"
+}

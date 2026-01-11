@@ -1,0 +1,11 @@
+{
+    "task_id": "salesforce-crm-integration",
+    "title": "Integrate all 40 products with Salesforce",
+    "description": "Build bidirectional sync between BlackRoad products and Salesforce CRM: sync customers, deals, usage data, support tickets. Use Salesforce REST API + OAuth. Create custom Salesforce app with BlackRoad branding.",
+    "priority": "high",
+    "tags": "integration,crm,salesforce",
+    "skills": "backend,integration",
+    "status": "available",
+    "posted_at": "2026-01-10T00:52:59.3NZ",
+    "posted_by": "unknown"
+}

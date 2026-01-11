@@ -1,0 +1,1083 @@
+{
+  "entries": {
+    "arc-spaces-docs": {
+      "id": "a0e146daa8300d03",
+      "key": "arc-spaces-docs",
+      "value": {
+        "url": "https://resources.arc.net/hc/en-us/articles/19228064149143-Spaces-Distinct-Browsing-Areas",
+        "shortcuts": {
+          "newSpace": "Cmd+Shift++",
+          "switchSpace": "Ctrl+[number]",
+          "commandPalette": "Cmd+T"
+        },
+        "features": [
+          "Air Traffic Control",
+          "Shared Spaces",
+          "Theming"
+        ]
+      },
+      "tags": [
+        "arc",
+        "browser",
+        "docs"
+      ],
+      "created": 1764700893076,
+      "updated": 1764700893076,
+      "accessCount": 1,
+      "lastAccess": 1764700898106
+    },
+    "alexa_spaces_config": {
+      "id": "4029841683cb4bd5",
+      "key": "alexa_spaces_config",
+      "value": {
+        "owner": "Alexa Louise Amundson",
+        "emails": [
+          "amundsonalexa@gmail.com",
+          "blackroad.systems@gmail.com"
+        ],
+        "created": "2025-12-02",
+        "spaces": {
+          "BLACKROAD_HQ": {
+            "description": "BlackRoad core infrastructure and company operations",
+            "color": "#FF0066",
+            "tabs": [
+              {
+                "url": "https://blackroad.io/",
+                "purpose": "Main site"
+              },
+              {
+                "url": "https://blackroad.io/codex/",
+                "purpose": "Codex Knowledge Base"
+              },
+              {
+                "url": "https://blackroad.io/lucidia/",
+                "purpose": "Lucidia AI"
+              },
+              {
+                "url": "https://blackroad.io/guardian/",
+                "purpose": "Guardian Security"
+              },
+              {
+                "url": "https://blackroadinc.us/",
+                "purpose": "Inc site"
+              },
+              {
+                "url": "https://blackroad.systems/",
+                "purpose": "Systems (needs fix - 522)"
+              },
+              {
+                "url": "https://blackroad-2-0.design.webflow.com/",
+                "purpose": "Webflow design"
+              }
+            ]
+          },
+          "INFRASTRUCTURE": {
+            "description": "Servers, cloud, and deployment",
+            "color": "#0066FF",
+            "tabs": [
+              {
+                "url": "https://cloud.digitalocean.com/",
+                "purpose": "DigitalOcean - codex-infinity droplet 159.65.43.12"
+              },
+              {
+                "url": "https://dash.cloudflare.com/848cf0b18d51e0170e0d1537aec3505a/",
+                "purpose": "Cloudflare - 16 zones"
+              },
+              {
+                "url": "https://railway.com/dashboard",
+                "purpose": "Railway - 12+ projects"
+              },
+              {
+                "url": "https://github.com/",
+                "purpose": "GitHub - blackboxprogramming org"
+              },
+              {
+                "url": "http://159.65.43.12:5000/",
+                "purpose": "Codex Infinity Portal"
+              },
+              {
+                "url": "http://159.65.43.12:5050/",
+                "purpose": "Codex port 5050"
+              },
+              {
+                "url": "http://159.65.43.12:8080/",
+                "purpose": "Codex port 8080"
+              }
+            ]
+          },
+          "CRYPTO_FINANCE": {
+            "description": "Wallets, exchanges, and financial services",
+            "color": "#FF9D00",
+            "tabs": [
+              {
+                "url": "https://metamask.io/",
+                "purpose": "MetaMask - 2.5 ETH"
+              },
+              {
+                "url": "https://www.coinbase.com/home",
+                "purpose": "Coinbase - 0.1 BTC"
+              },
+              {
+                "url": "https://www.bitcoin.com/",
+                "purpose": "Bitcoin.com"
+              },
+              {
+                "url": "https://dashboard.stripe.com/",
+                "purpose": "Stripe payments"
+              },
+              {
+                "url": "https://wallet.google.com/",
+                "purpose": "Google Wallet"
+              }
+            ]
+          },
+          "AI_TOOLS": {
+            "description": "AI assistants and ML platforms",
+            "color": "#7700FF",
+            "tabs": [
+              {
+                "url": "https://claude.ai/",
+                "purpose": "Claude AI"
+              },
+              {
+                "url": "https://chatgpt.com/",
+                "purpose": "ChatGPT"
+              },
+              {
+                "url": "https://huggingface.co/",
+                "purpose": "Hugging Face"
+              },
+              {
+                "url": "https://share.streamlit.io/user/blackboxprogramming",
+                "purpose": "Streamlit apps"
+              }
+            ]
+          },
+          "PRODUCTIVITY": {
+            "description": "Task management and scheduling",
+            "color": "#FF6B00",
+            "tabs": [
+              {
+                "url": "https://app.asana.com/",
+                "purpose": "Asana tasks"
+              },
+              {
+                "url": "https://calendar.google.com/",
+                "purpose": "Google Calendar"
+              },
+              {
+                "url": "https://airtable.com/",
+                "purpose": "Airtable"
+              },
+              {
+                "url": "https://accounts.google.com/",
+                "purpose": "Gmail"
+              }
+            ]
+          },
+          "CAREER": {
+            "description": "Job search and professional development",
+            "color": "#D600AA",
+            "tabs": [
+              {
+                "url": "https://www.aegon.com/careers/vacancies",
+                "purpose": "Aegon careers"
+              },
+              {
+                "url": "https://careers.allianz.com/",
+                "purpose": "Allianz careers"
+              },
+              {
+                "url": "https://transamerica.wd5.myworkdayjobs.com/",
+                "purpose": "Transamerica jobs"
+              },
+              {
+                "url": "https://job-boards.greenhouse.io/affirm",
+                "purpose": "Affirm jobs"
+              },
+              {
+                "url": "https://jobs.fidelity.com/",
+                "purpose": "Fidelity careers"
+              }
+            ]
+          },
+          "EDUCATION": {
+            "description": "Learning resources and university",
+            "color": "#FF006B",
+            "tabs": [
+              {
+                "url": "https://www.myu.umn.edu/",
+                "purpose": "UMN Student Center"
+              },
+              {
+                "url": "https://ocw.mit.edu/",
+                "purpose": "MIT OpenCourseWare"
+              },
+              {
+                "url": "https://python101.pythonlibrary.org/",
+                "purpose": "Python learning"
+              },
+              {
+                "url": "https://www.wikipedia.org/",
+                "purpose": "Wikipedia"
+              }
+            ]
+          },
+          "MEDIA": {
+            "description": "Entertainment and content",
+            "color": "#FF9D00",
+            "tabs": [
+              {
+                "url": "https://youtube.com/",
+                "purpose": "YouTube"
+              },
+              {
+                "url": "https://www.youtube.com/@TheBrowserCompany",
+                "purpose": "Browser Company channel"
+              },
+              {
+                "url": "https://maps.google.com/",
+                "purpose": "Google Maps"
+              }
+            ]
+          }
+        },
+        "local_services": {
+          "arc_api": "http://127.0.0.1:3848",
+          "localhost_8501": "http://localhost:8501 - Blockchain Wallet dev",
+          "localhost_5000": "http://127.0.0.1:5000 - Holo Memory Console"
+        },
+        "notes": "68 tabs active. BlackRoad.systems showing 522 error - needs tunnel check. server_ip placeholders need replacement with 159.65.43.12"
+      },
+      "tags": [
+        "alexa",
+        "spaces",
+        "arc",
+        "config",
+        "agent-reference"
+      ],
+      "created": 1764701443144,
+      "updated": 1764701443144,
+      "accessCount": 0
+    },
+    "agent_instructions": {
+      "id": "faa6b59e00d59426",
+      "key": "agent_instructions",
+      "value": {
+        "user": "Alexa Louise Amundson",
+        "context": "BlackRoad founder and operator. Full-stack engineer building autonomous AI infrastructure.",
+        "arc_api": {
+          "endpoint": "http://127.0.0.1:3848",
+          "how_to_use": "GET /status for system status, GET /memory/alexa_spaces_config for space layout",
+          "spaces_key": "alexa_spaces_config"
+        },
+        "space_definitions": {
+          "BLACKROAD_HQ": "#FF0066 - Core company sites and products",
+          "INFRASTRUCTURE": "#0066FF - DigitalOcean, Cloudflare, Railway, GitHub",
+          "CRYPTO_FINANCE": "#FF9D00 - MetaMask, Coinbase, Stripe",
+          "AI_TOOLS": "#7700FF - Claude, ChatGPT, HuggingFace, Streamlit",
+          "PRODUCTIVITY": "#FF6B00 - Asana, Calendar, Gmail, Airtable",
+          "CAREER": "#D600AA - Job boards (Aegon, Allianz, Transamerica, Affirm, Fidelity)",
+          "EDUCATION": "#FF006B - UMN, MIT OCW, Python learning",
+          "MEDIA": "#FF9D00 - YouTube, Maps"
+        },
+        "key_infrastructure": {
+          "codex_infinity": "159.65.43.12 - DigitalOcean droplet, ports 5000/5050/8080",
+          "cloudflare_account": "848cf0b18d51e0170e0d1537aec3505a",
+          "github_org": "blackboxprogramming",
+          "raspberry_pi": "192.168.4.49 (alice/lucidia)"
+        },
+        "crypto_holdings": {
+          "ETH": "2.5 ETH in MetaMask",
+          "SOL": "100 SOL in Phantom",
+          "BTC": "0.1 BTC in Coinbase"
+        },
+        "truth_system": "GitHub (BlackRoad-OS) + Cloudflare = source of truth. PS-SHA-infinity for verification.",
+        "agent_tips": [
+          "Always check /status first to confirm Arc API is running",
+          "Use GET /memory/alexa_spaces_config for full space layout",
+          "BlackRoad colors: #FF9D00 #FF6B00 #FF0066 #FF006B #D600AA #7700FF #0066FF",
+          "blackroad.systems shows 522 - tunnel may need restart",
+          "server_ip placeholders should be replaced with 159.65.43.12"
+        ]
+      },
+      "tags": [
+        "agent",
+        "instructions",
+        "alexa",
+        "onboarding"
+      ],
+      "created": 1764701462974,
+      "updated": 1764701462974,
+      "accessCount": 0
+    },
+    "blackroad_gateway": {
+      "id": "72ee14e3dd2e53b6",
+      "key": "blackroad_gateway",
+      "value": {
+        "url": "https://blackroad-gateway.amundsonalexa.workers.dev",
+        "endpoints": {
+          "health": "GET /health",
+          "chat": "POST /v1/chat",
+          "identity": "GET /v1/identity",
+          "upgrade": "POST /v1/upgrade",
+          "stats": "GET /stats"
+        },
+        "pricing": {
+          "free": {
+            "daily": 100,
+            "memory": 5,
+            "price": 0
+          },
+          "pro": {
+            "daily": 10000,
+            "memory": 100,
+            "price": 29
+          },
+          "team": {
+            "daily": 100000,
+            "memory": 1000,
+            "price": 99
+          }
+        },
+        "infrastructure": {
+          "platform": "Cloudflare Workers",
+          "storage": "Cloudflare KV",
+          "kv_identities": "10bf69b8bc664a5a832e348f1d0745cf",
+          "kv_rate_limits": "eaf62d1acdb04fa695d817073ff23830"
+        },
+        "deployed": "2025-12-02",
+        "status": "live"
+      },
+      "tags": [
+        "gateway",
+        "monetization",
+        "api",
+        "production"
+      ],
+      "created": 1764702944546,
+      "updated": 1764702944546,
+      "accessCount": 0
+    },
+    "blackroad_gateway_final": {
+      "id": "01a2d6ef8e3db5c2",
+      "key": "blackroad_gateway_final",
+      "value": {
+        "urls": {
+          "landing": "https://blackroad-gateway-web.pages.dev",
+          "api": "https://blackroad-gateway.amundsonalexa.workers.dev",
+          "api_custom": "https://gateway.blackroad.io (pending DNS)",
+          "billing": "https://blackroad-gateway-billing.amundsonalexa.workers.dev"
+        },
+        "stripe": {
+          "account": "acct_1S70Zn3e5FMFdlFw",
+          "product": "prod_TX3LAfc8Kb5d3R",
+          "prices": {
+            "pro_monthly": "price_1SZzFE3e5FMFdlFwNBbEIoZk",
+            "pro_yearly": "price_1SZzFV3e5FMFdlFwfwpoA958",
+            "team_monthly": "price_1SZzFN3e5FMFdlFwXePFSBwA",
+            "team_yearly": "price_1SZzFd3e5FMFdlFwjF5FhS1S"
+          },
+          "webhook": "we_1SZzFn3e5FMFdlFw8nUTVcGJ"
+        },
+        "cloudflare": {
+          "kv_identities": "10bf69b8bc664a5a832e348f1d0745cf",
+          "kv_rate_limits": "eaf62d1acdb04fa695d817073ff23830",
+          "pages_project": "blackroad-gateway-web",
+          "workers": [
+            "blackroad-gateway",
+            "blackroad-gateway-billing"
+          ]
+        },
+        "pricing": {
+          "free": {
+            "calls_day": 100,
+            "memory": 5,
+            "price": 0
+          },
+          "pro": {
+            "calls_day": 10000,
+            "memory": 100,
+            "price_monthly": 29,
+            "price_yearly": 290
+          },
+          "team": {
+            "calls_day": 100000,
+            "memory": 1000,
+            "price_monthly": 99,
+            "price_yearly": 990
+          }
+        },
+        "deployed": "2025-12-02T19:30:00Z",
+        "status": "LIVE - READY FOR PAYMENTS"
+      },
+      "tags": [
+        "gateway",
+        "stripe",
+        "production",
+        "monetization"
+      ],
+      "created": 1764703952619,
+      "updated": 1764703952619,
+      "accessCount": 0
+    }
+  },
+  "tags": {
+    "arc": [
+      "arc-spaces-docs",
+      "alexa_spaces_config"
+    ],
+    "browser": [
+      "arc-spaces-docs"
+    ],
+    "docs": [
+      "arc-spaces-docs"
+    ],
+    "alexa": [
+      "alexa_spaces_config",
+      "agent_instructions"
+    ],
+    "spaces": [
+      "alexa_spaces_config"
+    ],
+    "config": [
+      "alexa_spaces_config"
+    ],
+    "agent-reference": [
+      "alexa_spaces_config"
+    ],
+    "agent": [
+      "agent_instructions"
+    ],
+    "instructions": [
+      "agent_instructions"
+    ],
+    "onboarding": [
+      "agent_instructions"
+    ],
+    "gateway": [
+      "blackroad_gateway",
+      "blackroad_gateway_final"
+    ],
+    "monetization": [
+      "blackroad_gateway",
+      "blackroad_gateway_final"
+    ],
+    "api": [
+      "blackroad_gateway"
+    ],
+    "production": [
+      "blackroad_gateway",
+      "blackroad_gateway_final"
+    ],
+    "stripe": [
+      "blackroad_gateway_final"
+    ]
+  },
+  "sessions": [
+    {
+      "id": "792bdd2afe8d95b4",
+      "timestamp": 1764700898399,
+      "label": "Current session - 68 tabs",
+      "tabCount": 73,
+      "tabs": [
+        {
+          "url": "https://cloud.digitalocean.com/droplets/499380310/terminal/ui/?os_user=root",
+          "title": "Home - Asana"
+        },
+        {
+          "url": "https://blackroad-2-0.design.webflow.com/",
+          "title": "Home – BlackRoad – Stripe"
+        },
+        {
+          "url": "https://airtable.com/",
+          "title": "MetaMask: The Leading Crypto Wallet Platform"
+        },
+        {
+          "url": "http://localhost:8501/",
+          "title": "Blockchain Wallet"
+        },
+        {
+          "url": "https://cloud.digitalocean.com/droplets/499380310/console?no_layout=true&i=26fb34",
+          "title": "Companies"
+        },
+        {
+          "url": "https://app.asana.com/1/1211130261554839/home",
+          "title": "Spaces: Distinct Browsing Areas – Arc Help Center"
+        },
+        {
+          "url": "https://dashboard.stripe.com/acct_1S70Zn3e5FMFdlFw/dashboard",
+          "title": "Transamerica Workday"
+        },
+        {
+          "url": "https://metamask.io/",
+          "title": "GitHub"
+        },
+        {
+          "url": "https://careers.allianz.com/",
+          "title": "main · Streamlit"
+        },
+        {
+          "url": "https://resources.arc.net/hc/en-us/articles/19228064149143-Spaces-Distinct-Browsing-Areas",
+          "title": "Codex Infinity Portal"
+        },
+        {
+          "url": "https://transamerica.wd5.myworkdayjobs.com/en-US/US/userHome",
+          "title": "Google Calendar"
+        },
+        {
+          "url": "https://github.com/",
+          "title": "server_ip"
+        },
+        {
+          "url": "https://improved-space-potato-pjj99qppp74h9wx6-8501.app.github.dev/",
+          "title": "Download the Asana App for Mobile and Desktop • Asana"
+        },
+        {
+          "url": "http://159.65.43.12:5050/",
+          "title": "Basic Search: Points of View Reference Center Home"
+        },
+        {
+          "url": "https://calendar.google.com/calendar/u/0/r?pli=1",
+          "title": "MetaMask - Chrome Web Store"
+        },
+        {
+          "url": "http://server_ip:3000/",
+          "title": "Railway"
+        },
+        {
+          "url": "https://asana.com/download",
+          "title": "ChatGPT - Math"
+        },
+        {
+          "url": "http://web.a.ebscohost.com.ssuproxy.mnpals.net/pov/search/basic?vid=0&sid=baf8416a-932a-4807-9681-c40a7d8f5dd0%40sessionmgr4006",
+          "title": "Vacancies | Aegon Group Corporate Website | Aegon"
+        },
+        {
+          "url": "https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?pli=1",
+          "title": "YouTube"
+        },
+        {
+          "url": "https://railway.com/dashboard",
+          "title": "first-project project - DigitalOcean"
+        },
+        {
+          "url": "https://chatgpt.com/g/g-p-6822472abc3081919e6d946f5d14489a-math/c/68291cb7-d65c-8009-98b0-7b8129fe818d",
+          "title": "f"
+        },
+        {
+          "url": "https://www.aegon.com/careers/vacancies",
+          "title": "Youtube"
+        },
+        {
+          "url": "https://youtube.com",
+          "title": "Files within root/"
+        },
+        {
+          "url": "https://cloud.digitalocean.com/projects/44bac8ad-6719-47b9-84c4-c57cbf785e1f/resources?i=26fb34",
+          "title": "BlackRoad — Online"
+        },
+        {
+          "url": "file:///Users/alexaamundson/Desktop/Heagney_FoundationsofProjectManagement%20(2).pdf",
+          "title": "Account home | Amundsonalexa@gmail.com's Account | Cloudflare"
+        },
+        {
+          "url": "https://youtube.com",
+          "title": "Home · Coinbase"
+        },
+        {
+          "url": "http://159.65.43.12:8080/",
+          "title": "Manage Your Account Settings - Tableau"
+        },
+        {
+          "url": "https://blackroad.io/lucidia/",
+          "title": "first-project project - DigitalOcean"
+        },
+        {
+          "url": "https://dash.cloudflare.com/848cf0b18d51e0170e0d1537aec3505a/home/domains",
+          "title": "Codex Infinity – PsiCore_001"
+        },
+        {
+          "url": "https://www.coinbase.com/home",
+          "title": "YouTube"
+        },
+        {
+          "url": "https://help.tableau.com/current/pro/desktop/en-us/useracct.htm#create-and-revoke-personal-access-tokens",
+          "title": "Upload folder using huggingface_hub · openai/gpt-oss-120b at 8c05803"
+        },
+        {
+          "url": "https://cloud.digitalocean.com/projects/44bac8ad-6719-47b9-84c4-c57cbf785e1f/resources?i=26fb34",
+          "title": "Codex Knowledge Base — BlackRoad.io"
+        },
+        {
+          "url": "http://159.65.43.12:5000/",
+          "title": "Codex | Most Accurate & Reliable Blockchain Data API"
+        },
+        {
+          "url": "https://youtube.com/",
+          "title": "bitcoincom.app.link/AU0EboKeVzb?_p=c11433dc9a0a7af2e61a90f4e1"
+        },
+        {
+          "url": "https://huggingface.co/",
+          "title": "Communication Center"
+        },
+        {
+          "url": "https://blackroad.io/codex/",
+          "title": "Google"
+        },
+        {
+          "url": "https://www.codex.io/",
+          "title": "Jobs at Affirm"
+        },
+        {
+          "url": "https://bitcoincom.app.link/AU0EboKeVzb?_p=c11433dc9a0a7af2e61a90f4e1",
+          "title": "codex-infinity - DigitalOcean"
+        },
+        {
+          "url": "https://www.myu.umn.edu/psp/psprd/EMPLOYEE/EMPL/s/WEBLIB_IS_AW.ISCRIPT1.FieldFormula.IScript_AssemblePage?AWGroupID=UM_STUDENT_CENTER&AWPageID=UM_STUDENT_CENTER&AWObjName=UM_STUDENT_CENTER_LPG",
+          "title": "Gmail"
+        },
+        {
+          "url": "https://wallet.google.com/wallet/u/1/home?utm_source=walletweb",
+          "title": "BlackRoad AI Platform"
+        },
+        {
+          "url": "https://job-boards.greenhouse.io/affirm",
+          "title": "Claude"
+        },
+        {
+          "url": "https://cloud.digitalocean.com/droplets/499380310/access?i=26fb34",
+          "title": "blackroadinc.us"
+        },
+        {
+          "url": "https://accounts.google.com/b/0/AddMailService",
+          "title": "Buy Bitcoin & cryptocurrency | Wallet"
+        },
+        {
+          "url": "file:///Users/alexa/Downloads/index%20(11).html",
+          "title": "news"
+        },
+        {
+          "url": "https://claude.ai/recents",
+          "title": "education."
+        },
+        {
+          "url": "https://blackroadinc.us/",
+          "title": "159.65.43.12:5004"
+        },
+        {
+          "url": "https://www.bitcoin.com/",
+          "title": "Vacancies | Aegon Group Corporate Website | Aegon"
+        },
+        {
+          "url": "http://159.65.43.12:5004/",
+          "title": "550+ Sample Business Plan Examples to Inspire Your Own — Bplans"
+        },
+        {
+          "url": "https://www.aegon.com/careers/vacancies?x=0&y=0&search=remote&page=2",
+          "title": "ChatGPT"
+        },
+        {
+          "url": "https://www.bplans.com/sample-business-plans/",
+          "title": "Result List: word gap: EBSCOhost"
+        },
+        {
+          "url": "https://chatgpt.com/",
+          "title": "Holo Memory Console"
+        },
+        {
+          "url": "http://web.b.ebscohost.com/ehost/results?vid=43&sid=1be896cb-c79f-47bc-a751-035a2a1f7956%40sessionmgr102&bquery=word+gap&bdata=JmRiPWVyaWMmZGI9aHhoJmRiPXVsaCZkYj1taWgmZGI9ZnVuayZkYj1wcmgmZGI9YXBoJmRiPXRmaCZkYj1id2gmZGI9YnVoJmRiPWY1aCZkYj1hd2gmZGI9aGNoJmRiPWtlaCZkYj1seGgmZGI9YzloJmRiPXNjaCZkYj1ubGViayZkYj1sMGgmZGI9cnBzJmRiPWg5aCZkYj1oOWkmZGI9aDlqJmRiPWg5ayZkYj1oOW0mY2xpMD1EVDEmY2x2MD0yMDA4MDEtMjAxODEyJmRsaTA9TkwmZGx2MD1ZJmRsZDA9bmxlYmsmdHlwZT0wJnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d",
+          "title": "Webhooks · Settings · blackboxprogramming/codex-infinity"
+        },
+        {
+          "url": "http://127.0.0.1:5000/",
+          "title": "Hugging Face – The AI community building the future."
+        },
+        {
+          "url": "https://github.com/blackboxprogramming/codex-infinity/settings/hooks",
+          "title": "Introduction — Python 101 1.0 documentation"
+        },
+        {
+          "url": "https://huggingface.co/settings/tokens",
+          "title": "Guardian — Security Intelligence"
+        },
+        {
+          "url": "https://python101.pythonlibrary.org/intro.html",
+          "title": "MetaMask web3 services | MetaMask"
+        },
+        {
+          "url": "https://blackroad.io/guardian/",
+          "title": "Maps"
+        },
+        {
+          "url": "https://metamask.io/developer/web3-services",
+          "title": "502 Bad Gateway"
+        },
+        {
+          "url": "https://maps.google.com/",
+          "title": "blackroad.systems | 522: Connection timed out"
+        },
+        {
+          "url": "https://blackroadinc.us/rave",
+          "title": "(102) The Browser Company - YouTube"
+        },
+        {
+          "url": "https://blackroad.systems/",
+          "title": "Alexa's Workspace - Marketplace Libraries & Templates - Webflow"
+        },
+        {
+          "url": "https://www.youtube.com/@TheBrowserCompany",
+          "title": "server_ip"
+        },
+        {
+          "url": "https://webflow.com/dashboard/workspace/alexas-workspace-f90662/marketplace-libraries-and-templates",
+          "title": "Streamlit"
+        },
+        {
+          "url": "http://server_ip:5000/",
+          "title": "Private Market Account Executive - Remote"
+        },
+        {
+          "url": "https://share.streamlit.io/user/blackboxprogramming",
+          "title": "Work From Home"
+        },
+        {
+          "url": "https://jobs.fidelity.com/en/jobs/2105405/private-market-account-executive-remote/",
+          "title": "MA"
+        },
+        {
+          "url": "https://www.wikipedia.org/",
+          "title": "US / Work From Home"
+        },
+        {
+          "url": "https://ocw.mit.edu/search/?t=Graphics+and+Visualization",
+          "title": "California"
+        },
+        {
+          "url": "codex-infinity - DigitalOcean Droplet Web Console",
+          "title": "United States of America / Work From Home"
+        },
+        {
+          "url": "Webflow - BlackRoad 2.0",
+          "title": "New York"
+        },
+        {
+          "url": "Airtable",
+          "title": "United States of America | Fidelity Careers"
+        },
+        {
+          "url": "BlackRoad Prism Portal",
+          "title": "Wikipedia"
+        },
+        {
+          "url": "DigitalOcean Droplet Console",
+          "title": "Search | MIT OpenCourseWare | Free Online Course Materials"
+        }
+      ]
+    },
+    {
+      "id": "74c24411e49eaf8c",
+      "timestamp": 1764701468081,
+      "label": "alexa_workspace_2025-12-02",
+      "tabCount": 73,
+      "tabs": [
+        {
+          "url": "https://cloud.digitalocean.com/droplets/499380310/terminal/ui/?os_user=root",
+          "title": "Home - Asana"
+        },
+        {
+          "url": "https://blackroad-2-0.design.webflow.com/",
+          "title": "Home – BlackRoad – Stripe"
+        },
+        {
+          "url": "https://airtable.com/",
+          "title": "MetaMask: The Leading Crypto Wallet Platform"
+        },
+        {
+          "url": "http://localhost:8501/",
+          "title": "Blockchain Wallet"
+        },
+        {
+          "url": "https://cloud.digitalocean.com/droplets/499380310/console?no_layout=true&i=26fb34",
+          "title": "Companies"
+        },
+        {
+          "url": "https://app.asana.com/1/1211130261554839/home",
+          "title": "Spaces: Distinct Browsing Areas – Arc Help Center"
+        },
+        {
+          "url": "https://dashboard.stripe.com/acct_1S70Zn3e5FMFdlFw/dashboard",
+          "title": "Transamerica Workday"
+        },
+        {
+          "url": "https://metamask.io/",
+          "title": "GitHub"
+        },
+        {
+          "url": "https://careers.allianz.com/",
+          "title": "main · Streamlit"
+        },
+        {
+          "url": "https://resources.arc.net/hc/en-us/articles/19228064149143-Spaces-Distinct-Browsing-Areas",
+          "title": "Codex Infinity Portal"
+        },
+        {
+          "url": "https://transamerica.wd5.myworkdayjobs.com/en-US/US/userHome",
+          "title": "Google Calendar"
+        },
+        {
+          "url": "https://github.com/",
+          "title": "server_ip"
+        },
+        {
+          "url": "https://improved-space-potato-pjj99qppp74h9wx6-8501.app.github.dev/",
+          "title": "Download the Asana App for Mobile and Desktop • Asana"
+        },
+        {
+          "url": "http://159.65.43.12:5050/",
+          "title": "Basic Search: Points of View Reference Center Home"
+        },
+        {
+          "url": "https://calendar.google.com/calendar/u/0/r?pli=1",
+          "title": "MetaMask - Chrome Web Store"
+        },
+        {
+          "url": "http://server_ip:3000/",
+          "title": "Railway"
+        },
+        {
+          "url": "https://asana.com/download",
+          "title": "ChatGPT - Math"
+        },
+        {
+          "url": "http://web.a.ebscohost.com.ssuproxy.mnpals.net/pov/search/basic?vid=0&sid=baf8416a-932a-4807-9681-c40a7d8f5dd0%40sessionmgr4006",
+          "title": "Vacancies | Aegon Group Corporate Website | Aegon"
+        },
+        {
+          "url": "https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?pli=1",
+          "title": "YouTube"
+        },
+        {
+          "url": "https://railway.com/dashboard",
+          "title": "first-project project - DigitalOcean"
+        },
+        {
+          "url": "https://chatgpt.com/g/g-p-6822472abc3081919e6d946f5d14489a-math/c/68291cb7-d65c-8009-98b0-7b8129fe818d",
+          "title": "f"
+        },
+        {
+          "url": "https://www.aegon.com/careers/vacancies",
+          "title": "Youtube"
+        },
+        {
+          "url": "https://youtube.com",
+          "title": "Files within root/"
+        },
+        {
+          "url": "https://cloud.digitalocean.com/projects/44bac8ad-6719-47b9-84c4-c57cbf785e1f/resources?i=26fb34",
+          "title": "BlackRoad — Online"
+        },
+        {
+          "url": "file:///Users/alexaamundson/Desktop/Heagney_FoundationsofProjectManagement%20(2).pdf",
+          "title": "Account home | Amundsonalexa@gmail.com's Account | Cloudflare"
+        },
+        {
+          "url": "https://youtube.com",
+          "title": "Home · Coinbase"
+        },
+        {
+          "url": "http://159.65.43.12:8080/",
+          "title": "Manage Your Account Settings - Tableau"
+        },
+        {
+          "url": "https://blackroad.io/lucidia/",
+          "title": "first-project project - DigitalOcean"
+        },
+        {
+          "url": "https://dash.cloudflare.com/848cf0b18d51e0170e0d1537aec3505a/home/domains",
+          "title": "Codex Infinity – PsiCore_001"
+        },
+        {
+          "url": "https://www.coinbase.com/home",
+          "title": "YouTube"
+        },
+        {
+          "url": "https://help.tableau.com/current/pro/desktop/en-us/useracct.htm#create-and-revoke-personal-access-tokens",
+          "title": "Upload folder using huggingface_hub · openai/gpt-oss-120b at 8c05803"
+        },
+        {
+          "url": "https://cloud.digitalocean.com/projects/44bac8ad-6719-47b9-84c4-c57cbf785e1f/resources?i=26fb34",
+          "title": "Codex Knowledge Base — BlackRoad.io"
+        },
+        {
+          "url": "http://159.65.43.12:5000/",
+          "title": "Codex | Most Accurate & Reliable Blockchain Data API"
+        },
+        {
+          "url": "https://youtube.com/",
+          "title": "bitcoincom.app.link/AU0EboKeVzb?_p=c11433dc9a0a7af2e61a90f4e1"
+        },
+        {
+          "url": "https://huggingface.co/",
+          "title": "Communication Center"
+        },
+        {
+          "url": "https://blackroad.io/codex/",
+          "title": "Google"
+        },
+        {
+          "url": "https://www.codex.io/",
+          "title": "Jobs at Affirm"
+        },
+        {
+          "url": "https://bitcoincom.app.link/AU0EboKeVzb?_p=c11433dc9a0a7af2e61a90f4e1",
+          "title": "codex-infinity - DigitalOcean"
+        },
+        {
+          "url": "https://www.myu.umn.edu/psp/psprd/EMPLOYEE/EMPL/s/WEBLIB_IS_AW.ISCRIPT1.FieldFormula.IScript_AssemblePage?AWGroupID=UM_STUDENT_CENTER&AWPageID=UM_STUDENT_CENTER&AWObjName=UM_STUDENT_CENTER_LPG",
+          "title": "Gmail"
+        },
+        {
+          "url": "https://wallet.google.com/wallet/u/1/home?utm_source=walletweb",
+          "title": "BlackRoad AI Platform"
+        },
+        {
+          "url": "https://job-boards.greenhouse.io/affirm",
+          "title": "Claude"
+        },
+        {
+          "url": "https://cloud.digitalocean.com/droplets/499380310/access?i=26fb34",
+          "title": "blackroadinc.us"
+        },
+        {
+          "url": "https://accounts.google.com/b/0/AddMailService",
+          "title": "Buy Bitcoin & cryptocurrency | Wallet"
+        },
+        {
+          "url": "file:///Users/alexa/Downloads/index%20(11).html",
+          "title": "news"
+        },
+        {
+          "url": "https://claude.ai/recents",
+          "title": "education."
+        },
+        {
+          "url": "https://blackroadinc.us/",
+          "title": "159.65.43.12:5004"
+        },
+        {
+          "url": "https://www.bitcoin.com/",
+          "title": "Vacancies | Aegon Group Corporate Website | Aegon"
+        },
+        {
+          "url": "http://159.65.43.12:5004/",
+          "title": "550+ Sample Business Plan Examples to Inspire Your Own — Bplans"
+        },
+        {
+          "url": "https://www.aegon.com/careers/vacancies?x=0&y=0&search=remote&page=2",
+          "title": "ChatGPT"
+        },
+        {
+          "url": "https://www.bplans.com/sample-business-plans/",
+          "title": "Result List: word gap: EBSCOhost"
+        },
+        {
+          "url": "https://chatgpt.com/",
+          "title": "Holo Memory Console"
+        },
+        {
+          "url": "http://web.b.ebscohost.com/ehost/results?vid=43&sid=1be896cb-c79f-47bc-a751-035a2a1f7956%40sessionmgr102&bquery=word+gap&bdata=JmRiPWVyaWMmZGI9aHhoJmRiPXVsaCZkYj1taWgmZGI9ZnVuayZkYj1wcmgmZGI9YXBoJmRiPXRmaCZkYj1id2gmZGI9YnVoJmRiPWY1aCZkYj1hd2gmZGI9aGNoJmRiPWtlaCZkYj1seGgmZGI9YzloJmRiPXNjaCZkYj1ubGViayZkYj1sMGgmZGI9cnBzJmRiPWg5aCZkYj1oOWkmZGI9aDlqJmRiPWg5ayZkYj1oOW0mY2xpMD1EVDEmY2x2MD0yMDA4MDEtMjAxODEyJmRsaTA9TkwmZGx2MD1ZJmRsZDA9bmxlYmsmdHlwZT0wJnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d",
+          "title": "Webhooks · Settings · blackboxprogramming/codex-infinity"
+        },
+        {
+          "url": "http://127.0.0.1:5000/",
+          "title": "Hugging Face – The AI community building the future."
+        },
+        {
+          "url": "https://github.com/blackboxprogramming/codex-infinity/settings/hooks",
+          "title": "Introduction — Python 101 1.0 documentation"
+        },
+        {
+          "url": "https://huggingface.co/settings/tokens",
+          "title": "Guardian — Security Intelligence"
+        },
+        {
+          "url": "https://python101.pythonlibrary.org/intro.html",
+          "title": "MetaMask web3 services | MetaMask"
+        },
+        {
+          "url": "https://blackroad.io/guardian/",
+          "title": "Maps"
+        },
+        {
+          "url": "https://metamask.io/developer/web3-services",
+          "title": "502 Bad Gateway"
+        },
+        {
+          "url": "https://maps.google.com/",
+          "title": "blackroad.systems | 522: Connection timed out"
+        },
+        {
+          "url": "https://blackroadinc.us/rave",
+          "title": "(102) The Browser Company - YouTube"
+        },
+        {
+          "url": "https://blackroad.systems/",
+          "title": "Alexa's Workspace - Marketplace Libraries & Templates - Webflow"
+        },
+        {
+          "url": "https://www.youtube.com/@TheBrowserCompany",
+          "title": "server_ip"
+        },
+        {
+          "url": "https://webflow.com/dashboard/workspace/alexas-workspace-f90662/marketplace-libraries-and-templates",
+          "title": "Streamlit"
+        },
+        {
+          "url": "http://server_ip:5000/",
+          "title": "Private Market Account Executive - Remote"
+        },
+        {
+          "url": "https://share.streamlit.io/user/blackboxprogramming",
+          "title": "Work From Home"
+        },
+        {
+          "url": "https://jobs.fidelity.com/en/jobs/2105405/private-market-account-executive-remote/",
+          "title": "MA"
+        },
+        {
+          "url": "https://www.wikipedia.org/",
+          "title": "US / Work From Home"
+        },
+        {
+          "url": "https://ocw.mit.edu/search/?t=Graphics+and+Visualization",
+          "title": "California"
+        },
+        {
+          "url": "codex-infinity - DigitalOcean Droplet Web Console",
+          "title": "United States of America / Work From Home"
+        },
+        {
+          "url": "Webflow - BlackRoad 2.0",
+          "title": "New York"
+        },
+        {
+          "url": "Airtable",
+          "title": "United States of America | Fidelity Careers"
+        },
+        {
+          "url": "BlackRoad Prism Portal",
+          "title": "Wikipedia"
+        },
+        {
+          "url": "DigitalOcean Droplet Console",
+          "title": "Search | MIT OpenCourseWare | Free Online Course Materials"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "created": 1764700827034,
+    "version": 1
+  }
+}

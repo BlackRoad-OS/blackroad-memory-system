@@ -1,0 +1,11 @@
+{
+    "task_id": "terraform-modules-all-clouds",
+    "title": "Create Terraform modules for all clouds",
+    "description": "Build Terraform modules for AWS, GCP, Azure, DigitalOcean. Deploy all 40 products with IaC. Publish to Terraform Registry. Comprehensive examples. Target: 500 Terraform users.",
+    "priority": "high",
+    "tags": "terraform,iac,infrastructure",
+    "skills": "devops,iac",
+    "status": "available",
+    "posted_at": "2026-01-10T01:01:21.3NZ",
+    "posted_by": "unknown"
+}

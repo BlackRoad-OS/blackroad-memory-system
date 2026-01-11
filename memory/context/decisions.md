@@ -1,0 +1,15 @@
+# Decisions Made
+
+- **deployment-architecture**: Using Cloudflare Tunnel for zero-config DNS (2025-12-23)
+- **memory-pattern**: PS-SHA∞ append-only journals with hash chains (2025-12-23)
+- **architecture-choice-1**: From Claude 3 (2025-12-23)
+- **architecture-choice-2**: From Claude 3 (2025-12-23)
+- **architecture-choice-3**: From Claude 3 (2025-12-23)
+- **architecture-choice-4**: From Claude 3 (2025-12-23)
+- **architecture-choice-5**: From Claude 3 (2025-12-23)
+- **architecture-choice-1**: From Claude 3 (2025-12-23)
+- **architecture-choice-2**: From Claude 3 (2025-12-23)
+- **architecture-choice-3**: From Claude 3 (2025-12-23)
+- **architecture-choice-4**: From Claude 3 (2025-12-23)
+- **architecture-choice-5**: From Claude 3 (2025-12-23)
+- **use-redis-cache**: For session storage, 15min TTL (2025-12-23)

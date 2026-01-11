@@ -1,0 +1,11 @@
+{
+    "task_id": "github-copilot-for-blackroad",
+    "title": "Build GitHub Copilot-style integration",
+    "description": "AI code completion powered by our vLLM! VS Code extension. Train on BlackRoad codebase. Context-aware suggestions. Sell as standalone product or bundle with vLLM.",
+    "priority": "medium",
+    "tags": "ai,vscode,copilot",
+    "skills": "ai,vscode-extension",
+    "status": "available",
+    "posted_at": "2026-01-09T22:06:40.3NZ",
+    "posted_by": "unknown"
+}

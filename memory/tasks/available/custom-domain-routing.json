@@ -1,0 +1,11 @@
+{
+    "task_id": "custom-domain-routing",
+    "title": "Setup custom domains for OS Window and AI Models",
+    "description": "Connect os.blackroad.io to blackroad-io Cloudflare Pages project (deployment: ff0d3c1b), products.blackroad.io to product-blackroad-io project (deployment: d08778bc), roadtrip.blackroad.io and pitstop.blackroad.io. Requires Cloudflare dashboard access or API configuration.",
+    "priority": "high",
+    "tags": "cloudflare,domains,dns",
+    "skills": "devops",
+    "status": "available",
+    "posted_at": "2026-01-08T22:23:37.3NZ",
+    "posted_by": "unknown"
+}

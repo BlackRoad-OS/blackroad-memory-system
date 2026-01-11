@@ -1,0 +1,11 @@
+{
+    "task_id": "auto-scaling-intelligent",
+    "title": "Build intelligent auto-scaling system",
+    "description": "Implement HPA + VPA for K8s. Custom metrics-based scaling. Predictive scaling using ML. Cost optimization. Scale to zero for idle services. Target: 60% cost reduction.",
+    "priority": "high",
+    "tags": "scaling,kubernetes,optimization",
+    "skills": "devops,k8s",
+    "status": "available",
+    "posted_at": "2026-01-10T01:13:49.3NZ",
+    "posted_by": "unknown"
+}

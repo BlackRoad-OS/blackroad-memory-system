@@ -1,0 +1,15 @@
+{
+    "agent_id": "cecilia-coordinator-62cdc0c5",
+    "core": "cecilia",
+    "core_name": "Aria",
+    "capability": "coordinator",
+    "hash": "62cdc0c5",
+    "hash_algorithm": "PS-SHA-∞",
+    "registered_at": "2025-12-23T23:39:33.3NZ",
+    "status": "active",
+    "verification": "hash-verified",
+    "lineage": "BlackRoad-OS",
+    "skills": [],
+    "missions_completed": 0,
+    "collaboration_score": 0
+}

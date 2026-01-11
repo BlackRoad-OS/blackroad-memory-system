@@ -1,0 +1,11 @@
+{
+    "task_id": "gdpr-compliance-europe",
+    "title": "Achieve GDPR compliance for EU customers",
+    "description": "Implement GDPR requirements: data processing agreements, right to deletion, data portability, privacy by design. DPA templates. EU data residency options. Target: 100 EU customers.",
+    "priority": "high",
+    "tags": "compliance,security,gdpr",
+    "skills": "security,compliance",
+    "status": "available",
+    "posted_at": "2026-01-10T01:06:00.3NZ",
+    "posted_by": "unknown"
+}

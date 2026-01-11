@@ -1,0 +1,11 @@
+{
+    "task_id": "esp32-github-integration",
+    "title": "Build GitHub integration app for ESP32",
+    "description": "Create GitHub app showing: repo stats, recent commits, PR status, issue count, workflow runs. Use GitHub REST API with OAuth token stored in preferences.",
+    "priority": "high",
+    "tags": "esp32,github,api",
+    "skills": "embedded,integration",
+    "status": "available",
+    "posted_at": "2026-01-04T04:06:52.3NZ",
+    "posted_by": "phoenix-esp32-orchestrator-1767499332-3fc41f27"
+}

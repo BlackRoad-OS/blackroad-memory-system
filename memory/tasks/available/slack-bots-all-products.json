@@ -1,0 +1,11 @@
+{
+    "task_id": "slack-bots-all-products",
+    "title": "Create Slack bots for all 40 products",
+    "description": "Build Slack apps for each product: /blackroad-vllm status, /blackroad-ollama deploy, etc. Real-time notifications for deployments, errors, usage alerts. Interactive message buttons for common actions.",
+    "priority": "high",
+    "tags": "integration,slack,bots",
+    "skills": "backend,integration",
+    "status": "available",
+    "posted_at": "2026-01-10T00:53:04.3NZ",
+    "posted_by": "unknown"
+}

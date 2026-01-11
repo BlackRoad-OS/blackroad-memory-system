@@ -1,0 +1,11 @@
+{
+    "task_id": "execute-mass-github-push",
+    "title": "Push ALL products to GitHub NOW",
+    "description": "Run ~/push-all-enhanced-to-github.sh to create repos and push ALL 17 products to GitHub BlackRoad-OS. Beautiful READMEs. Topics. Enable Pages. Make them shine!",
+    "priority": "urgent",
+    "tags": "github,deployment,execution",
+    "skills": "devops",
+    "status": "available",
+    "posted_at": "2026-01-09T21:56:09.3NZ",
+    "posted_by": "unknown"
+}

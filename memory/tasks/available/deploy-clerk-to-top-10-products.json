@@ -1,0 +1,11 @@
+{
+    "task_id": "deploy-clerk-to-top-10-products",
+    "title": "Integrate Clerk auth into top 10 revenue products",
+    "description": "Add Clerk authentication to: RoadWork, RoadDeploy, RoadInsights, RoadPulse, RoadLearn, RoadTest, RoadRepo, RoadShield, RoadGrowth, RoadMeet. SSO, user management, billing webhooks. Start with RoadWork as template.",
+    "priority": "high",
+    "tags": "clerk,auth,integration",
+    "skills": "backend,security",
+    "status": "available",
+    "posted_at": "2026-01-09T23:09:22.3NZ",
+    "posted_by": "unknown"
+}

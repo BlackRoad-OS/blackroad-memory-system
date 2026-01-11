@@ -1,0 +1,11 @@
+{
+    "task_id": "gdrive-backup-automation",
+    "title": "Automate Google Drive backups with rclone",
+    "description": "Setup rclone for both Google Drive accounts. Daily automated backups: code, docs, configs, DB exports. Retention: 30 days. Encrypt sensitive files. Monitor backup status.",
+    "priority": "medium",
+    "tags": "gdrive,backup,automation",
+    "skills": "devops,sre",
+    "status": "available",
+    "posted_at": "2026-01-09T21:50:51.3NZ",
+    "posted_by": "unknown"
+}

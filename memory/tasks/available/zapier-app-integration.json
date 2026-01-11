@@ -1,0 +1,11 @@
+{
+    "task_id": "zapier-app-integration",
+    "title": "Build Zapier integration for all products",
+    "description": "Create official Zapier app with triggers (new user, deployment complete, error occurred) and actions (deploy product, create user, update config). Enable 5000+ Zapier integrations.",
+    "priority": "high",
+    "tags": "integration,zapier,automation",
+    "skills": "backend,integration",
+    "status": "available",
+    "posted_at": "2026-01-10T00:53:10.3NZ",
+    "posted_by": "unknown"
+}

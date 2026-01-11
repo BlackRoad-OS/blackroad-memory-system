@@ -1,0 +1,15 @@
+{
+    "agent_id": "alice-migration-architect-59fcadf5",
+    "core": "alice",
+    "core_name": "Aria",
+    "capability": "migration-architect",
+    "hash": "59fcadf5",
+    "hash_algorithm": "PS-SHA-∞",
+    "registered_at": "2025-12-24T01:24:12.3NZ",
+    "status": "active",
+    "verification": "hash-verified",
+    "lineage": "BlackRoad-OS",
+    "skills": [],
+    "missions_completed": 0,
+    "collaboration_score": 0
+}

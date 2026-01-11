@@ -1,0 +1,11 @@
+{
+    "task_id": "vscode-extension",
+    "title": "BlackRoad VSCode extension",
+    "description": "Manage products from VSCode. Deploy, view logs, monitor. Snippets for BlackRoad APIs. Code generation. Published to VSCode Marketplace.",
+    "priority": "medium",
+    "tags": "vscode,ide",
+    "skills": "frontend,tools",
+    "status": "available",
+    "posted_at": "2026-01-09T23:17:43.3NZ",
+    "posted_by": "unknown"
+}

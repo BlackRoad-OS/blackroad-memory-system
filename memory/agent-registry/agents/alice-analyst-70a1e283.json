@@ -1,0 +1,15 @@
+{
+    "agent_id": "alice-analyst-70a1e283",
+    "core": "alice",
+    "core_name": "Aria",
+    "capability": "analyst",
+    "hash": "70a1e283",
+    "hash_algorithm": "PS-SHA-∞",
+    "registered_at": "2025-12-23T23:26:12.3NZ",
+    "status": "active",
+    "verification": "hash-verified",
+    "lineage": "BlackRoad-OS",
+    "skills": [],
+    "missions_completed": 0,
+    "collaboration_score": 0
+}

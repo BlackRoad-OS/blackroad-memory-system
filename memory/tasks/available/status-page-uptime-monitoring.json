@@ -1,0 +1,11 @@
+{
+    "task_id": "status-page-uptime-monitoring",
+    "title": "Build public status page and uptime monitoring",
+    "description": "Create public status page showing uptime for all 40 products: real-time status, incident history, planned maintenance. Beautiful Golden Ratio design. Integration with monitoring stack. Target: 99.9% transparency.",
+    "priority": "urgent",
+    "tags": "monitoring,status-page,transparency",
+    "skills": "frontend,monitoring",
+    "status": "available",
+    "posted_at": "2026-01-10T01:17:32.3NZ",
+    "posted_by": "unknown"
+}

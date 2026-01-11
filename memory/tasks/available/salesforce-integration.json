@@ -1,0 +1,11 @@
+{
+    "task_id": "salesforce-integration",
+    "title": "Build Salesforce integration for all products",
+    "description": "Sync users, orgs, billing to Salesforce. Auto-create opportunities from signups. Track product usage in SF. Custom objects for BlackRoad products. Apex triggers for automation.",
+    "priority": "medium",
+    "tags": "salesforce,crm",
+    "skills": "backend,integration",
+    "status": "available",
+    "posted_at": "2026-01-09T23:16:47.3NZ",
+    "posted_by": "unknown"
+}

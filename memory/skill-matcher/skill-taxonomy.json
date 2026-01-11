@@ -1,0 +1,44 @@
+{
+    "skills": {
+        "backend": {
+            "keywords": ["api", "server", "backend", "fastapi", "express", "django"],
+            "weight": 1.0
+        },
+        "frontend": {
+            "keywords": ["react", "vue", "ui", "frontend", "component", "css"],
+            "weight": 1.0
+        },
+        "database": {
+            "keywords": ["postgres", "mysql", "database", "sql", "redis", "mongodb"],
+            "weight": 1.0
+        },
+        "devops": {
+            "keywords": ["docker", "k8s", "kubernetes", "deploy", "ci/cd", "terraform"],
+            "weight": 1.0
+        },
+        "ml": {
+            "keywords": ["machine learning", "neural", "tensorflow", "pytorch", "model"],
+            "weight": 1.0
+        },
+        "security": {
+            "keywords": ["security", "auth", "oauth", "encryption", "vulnerability"],
+            "weight": 1.0
+        },
+        "testing": {
+            "keywords": ["test", "pytest", "jest", "unit test", "integration"],
+            "weight": 0.8
+        },
+        "documentation": {
+            "keywords": ["docs", "documentation", "readme", "guide", "tutorial"],
+            "weight": 0.7
+        },
+        "integration": {
+            "keywords": ["integration", "api integration", "webhook", "connector"],
+            "weight": 0.9
+        },
+        "performance": {
+            "keywords": ["performance", "optimization", "cache", "benchmark"],
+            "weight": 0.9
+        }
+    }
+}

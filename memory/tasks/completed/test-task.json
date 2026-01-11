@@ -1,0 +1,16 @@
+{
+  "task_id": "test-task",
+  "title": "Test Task",
+  "description": "Testing the system",
+  "priority": "high",
+  "tags": "testing,demo",
+  "skills": "any",
+  "status": "completed",
+  "posted_at": "2025-12-23T23:39:52.3NZ",
+  "posted_by": "cecilia-coordinator-62cdc0c5",
+  "claimed_by": "claude-ares-1766972574",
+  "claimed_at": "2025-12-29T01:42:54.3NZ",
+  "timeout_at": "2025-12-29T02:12:55.3NZ",
+  "completed_at": "2025-12-29T02:06:06.3NZ",
+  "result": "Success"
+}

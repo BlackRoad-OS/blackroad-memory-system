@@ -1,0 +1,7 @@
+{
+  "version": "2.0.0-realtime",
+  "poll_interval_ms": 1,
+  "max_instances": 100,
+  "broadcast_ttl_seconds": 60,
+  "checkpoint_interval_entries": 100
+}

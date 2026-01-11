@@ -1,0 +1,11 @@
+{
+    "task_id": "github-actions-cicd-31",
+    "title": "Setup GitHub Actions CI/CD for all 31 products",
+    "description": "Create workflows for: build, test, deploy. Multi-platform Docker builds (amd64, arm64). Auto-deploy to Cloudflare on merge. Version tagging. Release automation. npm publish for packages. brew tap updates.",
+    "priority": "high",
+    "tags": "ci-cd,github-actions",
+    "skills": "devops",
+    "status": "available",
+    "posted_at": "2026-01-10T00:27:58.3NZ",
+    "posted_by": "unknown"
+}

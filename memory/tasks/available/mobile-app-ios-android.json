@@ -1,0 +1,11 @@
+{
+    "task_id": "mobile-app-ios-android",
+    "title": "Build mobile apps for iOS + Android",
+    "description": "Create native mobile apps (Swift + Kotlin): manage all products, view metrics, deploy on-the-go, push notifications. Beautiful Golden Ratio design. Publish to App Store + Play Store.",
+    "priority": "high",
+    "tags": "mobile,ios,android",
+    "skills": "mobile,frontend",
+    "status": "available",
+    "posted_at": "2026-01-10T00:53:45.3NZ",
+    "posted_by": "unknown"
+}

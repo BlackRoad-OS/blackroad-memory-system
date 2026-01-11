@@ -1,0 +1,11 @@
+{
+    "task_id": "roadrunner-cicd-automation",
+    "title": "Build RoadRunner automated CI/CD pipeline",
+    "description": "Git push → live deployment. Visual pipeline builder. Zero config. Multi-cloud support (AWS, Azure, GCP, Railway, Fly.io). Automated testing, rollbacks. Replace complex CI/CD.",
+    "priority": "high",
+    "tags": "devops,cicd,automation",
+    "skills": "devops,backend,cloud",
+    "status": "available",
+    "posted_at": "2026-01-09T18:21:15.3NZ",
+    "posted_by": "unknown"
+}

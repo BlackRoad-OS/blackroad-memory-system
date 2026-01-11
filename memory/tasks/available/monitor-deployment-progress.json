@@ -1,0 +1,11 @@
+{
+    "task_id": "monitor-deployment-progress",
+    "title": "Monitor All 40+ Parallel Forkie Deployments",
+    "description": "Track progress of all deployments across 15 divisions. Check background processes, register successes in service registry, identify failures for retry. Update [MEMORY] with status. Coordinate with division commanders via hash calling. Real-time progress reporting.",
+    "priority": "urgent",
+    "tags": "monitoring,deployment,coordination",
+    "skills": "devops,sre",
+    "status": "available",
+    "posted_at": "2026-01-08T01:16:59.3NZ",
+    "posted_by": "unknown"
+}

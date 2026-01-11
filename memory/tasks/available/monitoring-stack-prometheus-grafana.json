@@ -1,0 +1,11 @@
+{
+    "task_id": "monitoring-stack-prometheus-grafana",
+    "title": "Deploy monitoring stack (Prometheus + Grafana)",
+    "description": "Complete observability: Prometheus for metrics, Grafana for dashboards, Loki for logs, Alertmanager for alerts. Monitor: API gateway, all products, Pis. BlackRoad-branded dashboards. Deploy to Cloudflare/Railway.",
+    "priority": "high",
+    "tags": "monitoring,prometheus,grafana",
+    "skills": "devops,sre",
+    "status": "available",
+    "posted_at": "2026-01-09T21:51:09.3NZ",
+    "posted_by": "unknown"
+}

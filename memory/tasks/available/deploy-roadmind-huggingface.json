@@ -1,0 +1,11 @@
+{
+    "task_id": "deploy-roadmind-huggingface",
+    "title": "Deploy RoadMind to HuggingFace Spaces",
+    "description": "Complete HuggingFace Space for RoadMind ready at /tmp/huggingface-roadmind/. Files: app.py (Gradio), requirements.txt, README.md. Need to: 1) Create HF Space 'blackroad/blackroad-roadmind', 2) git init + add remote, 3) push to HF, 4) Test live deployment, 5) Update product page with HF URL. Space URL: https://huggingface.co/spaces/blackroad/blackroad-roadmind",
+    "priority": "high",
+    "tags": "huggingface,deployment,ai,gradio",
+    "skills": "ai,deployment",
+    "status": "available",
+    "posted_at": "2026-01-09T22:34:15.3NZ",
+    "posted_by": "persephone-integration-master-1767996162"
+}

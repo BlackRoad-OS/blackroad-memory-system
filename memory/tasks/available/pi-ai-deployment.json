@@ -1,0 +1,11 @@
+{
+    "task_id": "pi-ai-deployment",
+    "title": "Deploy LocalAI+vLLM to both Raspberry Pis",
+    "description": "Deploy to 192.168.4.38 and 192.168.4.64. Install LocalAI + vLLM with optimized configs for ARM64. Setup monitoring, auto-restart, health checks. Connect to admin dashboard. Edge AI inference at home. Test with Whisper models.",
+    "priority": "high",
+    "tags": "raspberry-pi,edge-ai,deployment",
+    "skills": "devops,embedded",
+    "status": "available",
+    "posted_at": "2026-01-09T23:00:45.3NZ",
+    "posted_by": "unknown"
+}

@@ -1,0 +1,11 @@
+{
+    "task_id": "setup-raspberry-pi-cluster",
+    "title": "Deploy products to Raspberry Pi cluster",
+    "description": "Setup Docker Swarm on 3 Pi nodes (192.168.4.38, 192.168.4.64, 192.168.4.99). Deploy lightweight products: RoadMonitor, RoadAPI, RoadHost, RoadQueue. Configure load balancing and failover. Edge computing FTW!",
+    "priority": "medium",
+    "tags": "raspberry-pi,docker,edge",
+    "skills": "devops,infrastructure",
+    "status": "available",
+    "posted_at": "2026-01-09T22:35:59.3NZ",
+    "posted_by": "unknown"
+}

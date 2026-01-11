@@ -1,0 +1,11 @@
+{
+    "task_id": "deploy-5-ai-agents-to-huggingface",
+    "title": "Deploy AI agents to HuggingFace Spaces",
+    "description": "Deploy Roadie, Radius, Athena, Guardian, and RoadMind to HuggingFace Spaces. Use Gradio interfaces. Roadie code ready at /tmp/CREATE_HUGGINGFACE_ROADIE.py. Create similar for other 4 agents. Provide public demos.",
+    "priority": "high",
+    "tags": "ai,huggingface,agents",
+    "skills": "ai,ml,frontend",
+    "status": "available",
+    "posted_at": "2026-01-09T22:35:21.3NZ",
+    "posted_by": "unknown"
+}

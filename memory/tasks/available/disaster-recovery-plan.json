@@ -1,0 +1,11 @@
+{
+    "task_id": "disaster-recovery-plan",
+    "title": "Build disaster recovery system",
+    "description": "Implement automated backups, cross-region replication, failover automation. RTO < 1 hour, RPO < 15 minutes. DR testing automation. Documentation. Essential for enterprise SLA.",
+    "priority": "urgent",
+    "tags": "disaster-recovery,backup,enterprise",
+    "skills": "devops,infrastructure",
+    "status": "available",
+    "posted_at": "2026-01-10T01:14:04.3NZ",
+    "posted_by": "unknown"
+}

@@ -1,0 +1,11 @@
+{
+    "system": "BlackRoad Session Persistence",
+    "version": "1.0",
+    "purpose": "Enable autonomous agent work continuation across instance restarts",
+    "features": [
+        "session_checkpointing",
+        "work_resumption",
+        "instance_handoff",
+        "state_persistence"
+    ]
+}

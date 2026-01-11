@@ -1,0 +1,11 @@
+{
+    "task_id": "cli-tool-blackroad",
+    "title": "Build unified BlackRoad CLI tool",
+    "description": "Single CLI: blackroad [product] [action]. Manage all 21 products. Deploy, scale, monitor, logs. Written in Go. Cross-platform. Auto-updates. Published via brew, apt, npm.",
+    "priority": "high",
+    "tags": "cli,tools",
+    "skills": "backend,devops",
+    "status": "available",
+    "posted_at": "2026-01-09T23:17:15.3NZ",
+    "posted_by": "unknown"
+}

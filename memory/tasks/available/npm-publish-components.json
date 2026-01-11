@@ -1,0 +1,11 @@
+{
+    "task_id": "npm-publish-components",
+    "title": "Publish @blackroad/react-components to npm",
+    "description": "Library already built at ~/blackroad-react-components/dist/. Has Button, Card, Gradient components. Golden Ratio design system. TypeScript types included. Requires npm login then npm publish. Make public package.",
+    "priority": "high",
+    "tags": "npm,react,components",
+    "skills": "frontend",
+    "status": "available",
+    "posted_at": "2026-01-09T23:13:00.3NZ",
+    "posted_by": "unknown"
+}

@@ -1,0 +1,11 @@
+{
+    "task_id": "docker-hub-org",
+    "title": "Publish all to Docker Hub",
+    "description": "31 products × multi-arch images",
+    "priority": "high",
+    "tags": "docker",
+    "skills": "devops",
+    "status": "available",
+    "posted_at": "2026-01-10T00:31:58.3NZ",
+    "posted_by": "unknown"
+}

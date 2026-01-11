@@ -1,0 +1,15 @@
+{
+    "system": "BlackRoad Traffic Light System",
+    "lights": {
+        "green": "Approved - Go ahead",
+        "yellow": "Needs review - Proceed with caution",
+        "red": "Blocked - Stop and fix"
+    },
+    "auto_rules": {
+        "all_tests_pass": "green",
+        "some_tests_fail": "yellow",
+        "critical_failure": "red",
+        "security_issue": "red",
+        "needs_review": "yellow"
+    }
+}

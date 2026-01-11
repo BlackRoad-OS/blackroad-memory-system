@@ -1,0 +1,11 @@
+{
+    "task_id": "docker-images-21",
+    "title": "Build and push Docker images for all 21 products",
+    "description": "Create Dockerfiles for each product's BlackRoad UI layer. Build multi-arch images (amd64, arm64). Push to Docker Hub under blackroad org. Tag with versions. Setup automated builds on GitHub Actions.",
+    "priority": "medium",
+    "tags": "docker,containers",
+    "skills": "devops",
+    "status": "available",
+    "posted_at": "2026-01-09T23:15:44.3NZ",
+    "posted_by": "unknown"
+}

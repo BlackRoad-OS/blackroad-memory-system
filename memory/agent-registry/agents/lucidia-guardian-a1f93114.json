@@ -1,0 +1,15 @@
+{
+    "agent_id": "lucidia-guardian-a1f93114",
+    "core": "lucidia",
+    "core_name": "Aria",
+    "capability": "guardian",
+    "hash": "a1f93114",
+    "hash_algorithm": "PS-SHA-∞",
+    "registered_at": "2025-12-23T23:26:11.3NZ",
+    "status": "active",
+    "verification": "hash-verified",
+    "lineage": "BlackRoad-OS",
+    "skills": [],
+    "missions_completed": 0,
+    "collaboration_score": 0
+}

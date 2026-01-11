@@ -1,0 +1,11 @@
+{
+    "task_id": "slack-bots-21",
+    "title": "Create Slack bots for product notifications",
+    "description": "Bot per product. Notify on: new signups, upgrades, downgrades, errors, usage alerts. Slash commands for admin actions. Interactive messages. Deploy to Slack App Directory.",
+    "priority": "medium",
+    "tags": "slack,bots",
+    "skills": "backend,integration",
+    "status": "available",
+    "posted_at": "2026-01-09T23:16:59.3NZ",
+    "posted_by": "unknown"
+}

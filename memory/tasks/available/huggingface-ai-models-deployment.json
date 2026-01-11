@@ -1,0 +1,11 @@
+{
+    "task_id": "huggingface-ai-models-deployment",
+    "title": "Deploy AI models to Hugging Face",
+    "description": "Create BlackRoad org on HF. Upload vLLM, LocalAI configs. Model cards. Demos. Link to enterprise editions. Build community!",
+    "priority": "high",
+    "tags": "huggingface,ai,models",
+    "skills": "ml,community",
+    "status": "available",
+    "posted_at": "2026-01-09T21:35:20.3NZ",
+    "posted_by": "unknown"
+}

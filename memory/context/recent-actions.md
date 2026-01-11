@@ -1,0 +1,52 @@
+# Recent Actions
+
+- [2025-12-23T18:03:59] **decision**: session-focus — User confirmed continuation with Master Infrastructure Plan v3 and Pain Points Solutions Map - awaiting direction for today's work
+- [2025-12-23T18:05:58] **created**: forkies-library — Complete open-source fork library extracted covering mesh VPN (Headscale/NetBird/Nebula), identity (Keycloak), AI stack (vLLM/Ollama/LangChain), CRM (EspoCRM), browsers (Firefox/Servo), infrastructure (OpenStack/OpenTofu), and civilization-scale systems
+- [2025-12-23T18:09:04] **accessed**: blackroad-earth-biomes.html — Interactive 3D Earth visualization with 12 biomes, 90+ real-world regions, animated trees/animals/agents, biome-specific characteristics (Tropical Rainforest, Temperate Forest, Boreal Taiga, Tundra, Hot/Cold Desert, Savanna, Grassland, Mediterranean, Mountain, Ice Sheet, Wetland)
+- [2025-12-23T18:11:45] **created**: lucidia-earth-biomes — Interactive 3D Earth with 12 biomes, 100+ regions, living ecosystem simulation using Three.js
+- [2025-12-23T18:14:28] **created**: BLACKROAD_FORKIES_CANONICAL_STACK.md — Complete sovereignty stack documentation: 100+ open-source projects organized by layer (Identity, Network, AI, CRM, Infrastructure, Communication, Data, Development, Security, Observability, Civilization-scale), license strategy, implementation priorities, cost analysis showing 95% savings vs cloud
+- [2025-12-23T18:16:45] **deployed**: lucidia-earth — Interactive Living Earth biomes experience at https://dc29fb12.lucidia-earth.pages.dev - 12 biomes, 100+ regions, 4500+ entities
+- [2025-12-23T18:22:32] **created**: blackroad-priority-stack — Complete deployment configurations for Headscale (mesh VPN), Keycloak (identity), vLLM (AI inference), EspoCRM (CRM) - includes Docker Compose files, environment configs, management scripts, and comprehensive README
+- [2025-12-23T18:30:09] **created**: blackroad-autodeploy-system — Complete automatic deployment orchestration system for 20 domains, Cloudflare Pages, GitHub Actions, and Pi mesh. Includes testing, monitoring, and Shellfish integration.
+- [2025-12-23T18:31:36] **deployed**: lucidia-earth-infinite-zoom — 8-level LOD system with Mandelbrot-like precision at https://93f59467.lucidia-earth.pages.dev/biomes-infinite - scales from 8K to 134M triangles
+- [2025-12-23T18:32:32] **created**: deployment-system-complete — Full automatic deployment system with Cloudflare Pages, GitHub Actions, Pi mesh, Shellfish, testing, and monitoring. 5 core scripts, comprehensive documentation, production ready.
+- [2025-12-23T18:33:44] **decision**: the-road-cosmology — The Universe is called 'The Road' - container for Lucidia (canonical home), Metaverse (buildable), and Infrastructure (RoadChain, NATS, Agent Protocol, Memory)
+- [2025-12-23T18:36:51] **deployed**: service-1.blackroad.io — From Claude 1
+- [2025-12-23T18:36:51] **decided**: architecture-choice-1 — From Claude 3
+- [2025-12-23T18:36:51] **created**: feature-branch-1 — From Claude 2
+- [2025-12-23T18:36:51] **deployed**: service-2.blackroad.io — From Claude 1
+- [2025-12-23T18:36:51] **decided**: architecture-choice-2 — From Claude 3
+- [2025-12-23T18:36:51] **created**: feature-branch-2 — From Claude 2
+- [2025-12-23T18:36:51] **decided**: architecture-choice-3 — From Claude 3
+- [2025-12-23T18:36:51] **deployed**: service-3.blackroad.io — From Claude 1
+- [2025-12-23T18:36:51] **created**: feature-branch-3 — From Claude 2
+- [2025-12-23T18:36:52] **deployed**: service-4.blackroad.io — From Claude 1
+- [2025-12-23T18:36:52] **decided**: architecture-choice-4 — From Claude 3
+- [2025-12-23T18:36:52] **created**: feature-branch-4 — From Claude 2
+- [2025-12-23T18:36:52] **decided**: architecture-choice-5 — From Claude 3
+- [2025-12-23T18:36:52] **created**: feature-branch-5 — From Claude 2
+- [2025-12-23T18:36:52] **deployed**: service-5.blackroad.io — From Claude 1
+- [2025-12-23T18:41:54] **deployed**: lucidia-earth-complete — Full Lucidia Earth deployment at https://dc0c9df8.lucidia-earth.pages.dev - Three experiences: /biomes (living world), /biomes-infinite (8-level LOD), /biomes-pixel (17-level 64^N recursive zoom to pixel)
+- [2025-12-23T18:41:59] **completed**: priority-forks-deployment-configs — All 4 priority forks deployment-ready: Headscale, Keycloak, vLLM, EspoCRM - Docker Compose validated, test scripts created (test-configs.sh, deploy-and-test.sh), all ports available except 11434 (Ollama), ready for deployment
+- [2025-12-23T18:43:02] **deployed**: api.blackroad.io — FastAPI
+- [2025-12-23T18:44:01] **decided**: architecture-choice-1 — From Claude 3
+- [2025-12-23T18:44:01] **deployed**: service-1.blackroad.io — From Claude 1
+- [2025-12-23T18:44:01] **created**: feature-branch-1 — From Claude 2
+- [2025-12-23T18:44:01] **decided**: architecture-choice-2 — From Claude 3
+- [2025-12-23T18:44:01] **deployed**: service-2.blackroad.io — From Claude 1
+- [2025-12-23T18:44:01] **created**: feature-branch-2 — From Claude 2
+- [2025-12-23T18:44:01] **decided**: architecture-choice-3 — From Claude 3
+- [2025-12-23T18:44:01] **created**: feature-branch-3 — From Claude 2
+- [2025-12-23T18:44:01] **deployed**: service-3.blackroad.io — From Claude 1
+- [2025-12-23T18:44:01] **decided**: architecture-choice-4 — From Claude 3
+- [2025-12-23T18:44:01] **created**: feature-branch-4 — From Claude 2
+- [2025-12-23T18:44:01] **deployed**: service-4.blackroad.io — From Claude 1
+- [2025-12-23T18:44:01] **decided**: architecture-choice-5 — From Claude 3
+- [2025-12-23T18:44:01] **deployed**: service-5.blackroad.io — From Claude 1
+- [2025-12-23T18:44:01] **created**: feature-branch-5 — From Claude 2
+- [2025-12-23T18:45:32] **deployed**: auth-api.blackroad.io — OAuth2 + JWT, Port 8080
+- [2025-12-23T18:45:33] **deployed**: app.blackroad.io — React frontend using auth-api.blackroad.io
+- [2025-12-23T18:45:33] **decided**: use-redis-cache — For session storage, 15min TTL
+- [2025-12-23T18:45:34] **configured**: redis.blackroad.io — Port 6379, 1GB RAM, maxmemory-policy allkeys-lru
+- [2025-12-23T18:46:56] **created**: world-generation-spec — Fractal terrain system: 64^(2d) recursive subdivision, PS-SHA∞ seed propagation, biome-constrained generation, Ground Level at Depth 6
+- [2025-12-23T18:51:46] **created**: complete-deployment-system-v2 — Built comprehensive deployment infrastructure: 8 deployment scripts (Bash, Python, Wrangler), complete documentation, fixed API token issues, ready for production use

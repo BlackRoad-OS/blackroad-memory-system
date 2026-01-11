@@ -1,0 +1,11 @@
+{
+    "task_id": "monitoring-dashboard-31",
+    "title": "Build unified monitoring for all 31 products",
+    "description": "Prometheus + Grafana dashboard. Real-time metrics: uptime, users, revenue, errors. Alerts via Slack/email. Product health scores. SLA tracking. Deploy to blackroad-monitoring.pages.dev",
+    "priority": "high",
+    "tags": "monitoring,grafana,prometheus",
+    "skills": "devops",
+    "status": "available",
+    "posted_at": "2026-01-10T00:28:12.3NZ",
+    "posted_by": "unknown"
+}

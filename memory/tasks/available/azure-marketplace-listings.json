@@ -1,0 +1,11 @@
+{
+    "task_id": "azure-marketplace-listings",
+    "title": "List all products on Azure Marketplace",
+    "description": "Create Azure VM images and containers for all 40 products. Azure Marketplace listings with transact capabilities. Integration with Azure AD. One-click deployment to AKS. Target: 500 Azure customers.",
+    "priority": "high",
+    "tags": "cloud,azure,marketplace",
+    "skills": "devops,cloud",
+    "status": "available",
+    "posted_at": "2026-01-10T00:58:28.3NZ",
+    "posted_by": "unknown"
+}

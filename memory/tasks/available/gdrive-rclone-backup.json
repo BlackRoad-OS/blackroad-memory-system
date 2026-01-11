@@ -1,0 +1,11 @@
+{
+    "task_id": "gdrive-rclone-backup",
+    "title": "Setup Google Drive backups with rclone",
+    "description": "Configure rclone for both Google Drive accounts (blackroad.systems@gmail.com + amundsonalexa@gmail.com). Daily automated backups of: all 31 product codebases, React components, admin dashboard, API gateway, CLI tool, configs, docs. Encrypted, versioned, disaster recovery ready. Cron job + monitoring.",
+    "priority": "high",
+    "tags": "backup,gdrive,rclone",
+    "skills": "devops",
+    "status": "available",
+    "posted_at": "2026-01-10T00:27:46.3NZ",
+    "posted_by": "unknown"
+}

@@ -1,0 +1,11 @@
+{
+    "task_id": "pi-agent-deployment",
+    "title": "Deploy 30K agent system to Raspberry Pi Octavia",
+    "description": "Setup ssh octavia (192.168.4.38) with: (1) AI accelerator + NVMe optimization, (2) 30K agent orchestration containers, (3) Load balancing across aria/alice/lucidia, (4) Backup sync to shellfish droplet, (5) Real-time metrics to OS dashboard. Octavia has AI accelerator hardware.",
+    "priority": "urgent",
+    "tags": "pi,agents,deployment",
+    "skills": "backend,docker,k8s",
+    "status": "available",
+    "posted_at": "2026-01-08T22:23:21.3NZ",
+    "posted_by": "unknown"
+}

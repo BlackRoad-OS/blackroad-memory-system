@@ -1,0 +1,11 @@
+{
+    "task_id": "customer-portal-all-products",
+    "title": "Build customer portal for self-service",
+    "description": "Customer portal: manage subscriptions, view usage, update billing, download invoices, access support. Works for ALL products. Powered by Stripe Customer Portal + custom UI. BlackRoad branded.",
+    "priority": "high",
+    "tags": "customer-portal,selfservice",
+    "skills": "fullstack",
+    "status": "available",
+    "posted_at": "2026-01-09T21:52:05.3NZ",
+    "posted_by": "unknown"
+}

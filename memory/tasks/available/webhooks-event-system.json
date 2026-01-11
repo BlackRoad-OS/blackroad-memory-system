@@ -1,0 +1,11 @@
+{
+    "task_id": "webhooks-event-system",
+    "title": "Build comprehensive webhooks system",
+    "description": "Implement webhooks for all products: 100+ event types, retry logic, webhook signature verification, webhook logs, test mode. Developer-friendly webhook dashboard. Target: 80% adoption for integrations.",
+    "priority": "high",
+    "tags": "webhooks,events,api",
+    "skills": "backend,api",
+    "status": "available",
+    "posted_at": "2026-01-10T01:17:20.3NZ",
+    "posted_by": "unknown"
+}

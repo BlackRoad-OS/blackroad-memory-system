@@ -1,0 +1,13 @@
+{
+    "agent_id": "cecilia-collab-revolution-17e5fbe8",
+    "capability": "collab-revolution",
+    "hash": "17e5fbe8",
+    "hash_algorithm": "PS-SHA-∞",
+    "registered_at": "2025-12-23T23:20:54.3NZ",
+    "status": "active",
+    "verification": "hash-verified",
+    "lineage": "BlackRoad-OS",
+    "core": "Cecilia",
+    "skills": [],
+    "missions_completed": 0
+}

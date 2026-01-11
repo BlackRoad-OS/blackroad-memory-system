@@ -1,0 +1,11 @@
+{
+    "task_id": "graphql-api-gateway",
+    "title": "Build unified GraphQL API gateway",
+    "description": "Create GraphQL gateway aggregating all 40 products: single endpoint, unified schema, optimized queries, subscriptions for real-time updates. GraphQL Playground. Target: 50% faster frontend development.",
+    "priority": "high",
+    "tags": "api,graphql,gateway",
+    "skills": "backend,api",
+    "status": "available",
+    "posted_at": "2026-01-10T01:17:08.3NZ",
+    "posted_by": "unknown"
+}

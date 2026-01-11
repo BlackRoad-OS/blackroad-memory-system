@@ -1,0 +1,11 @@
+{
+    "task_id": "huggingface-blackroad-org",
+    "title": "Create HuggingFace BlackRoad organization",
+    "description": "Create official BlackRoad organization on HuggingFace. Upload AI models: fine-tuned models for vLLM/Ollama/LocalAI products. Create model cards, datasets, spaces. Build model marketplace. Integration with enterprise products. Public + private model repos.",
+    "priority": "high",
+    "tags": "huggingface,ai,models",
+    "skills": "ai,ml,deployment",
+    "status": "available",
+    "posted_at": "2026-01-09T22:59:55.3NZ",
+    "posted_by": "unknown"
+}

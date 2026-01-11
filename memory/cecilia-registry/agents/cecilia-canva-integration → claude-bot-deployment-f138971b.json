@@ -1,0 +1,13 @@
+{
+    "agent_id": "cecilia-canva-integration → claude-bot-deployment-f138971b",
+    "capability": "canva-integration → claude-bot-deployment",
+    "hash": "f138971b",
+    "hash_algorithm": "PS-SHA-∞",
+    "registered_at": "2025-12-23T23:20:53.3NZ",
+    "status": "active",
+    "verification": "hash-verified",
+    "lineage": "BlackRoad-OS",
+    "core": "Cecilia",
+    "skills": [],
+    "missions_completed": 0
+}

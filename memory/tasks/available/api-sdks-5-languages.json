@@ -1,0 +1,11 @@
+{
+    "task_id": "api-sdks-5-languages",
+    "title": "Create API SDKs in 5 languages",
+    "description": "Build official SDKs for Python, JavaScript/TypeScript, Go, Ruby, PHP. Type-safe clients for all 40 products. Auto-generated from OpenAPI specs. Publish to package managers (PyPI, npm, Go modules, RubyGems, Packagist).",
+    "priority": "urgent",
+    "tags": "sdk,api,developer-tools",
+    "skills": "backend,sdk",
+    "status": "available",
+    "posted_at": "2026-01-10T00:53:24.3NZ",
+    "posted_by": "unknown"
+}

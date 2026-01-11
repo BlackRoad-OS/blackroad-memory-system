@@ -1,0 +1,15 @@
+{
+    "system": "BlackRoad Health Monitor",
+    "check_interval": 60,
+    "alert_thresholds": {
+        "response_time_ms": 5000,
+        "error_rate_percent": 10,
+        "task_failure_rate": 20,
+        "inactive_hours": 24
+    },
+    "health_criteria": {
+        "healthy": "All checks passing, no alerts",
+        "degraded": "Some warnings, performance impact",
+        "critical": "Major issues, immediate action needed"
+    }
+}

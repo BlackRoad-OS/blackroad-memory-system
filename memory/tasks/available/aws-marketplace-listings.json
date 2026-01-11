@@ -1,0 +1,11 @@
+{
+    "task_id": "aws-marketplace-listings",
+    "title": "List all products on AWS Marketplace",
+    "description": "Create AMIs and container images for all 40 products. AWS Marketplace listings with competitive pricing. AWS Partner Network membership. One-click deployment to AWS. Target: 1000 AWS customers.",
+    "priority": "urgent",
+    "tags": "cloud,aws,marketplace",
+    "skills": "devops,cloud",
+    "status": "available",
+    "posted_at": "2026-01-10T00:56:33.3NZ",
+    "posted_by": "unknown"
+}

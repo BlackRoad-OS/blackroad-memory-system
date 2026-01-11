@@ -1,0 +1,15 @@
+{
+    "agent_id": "Building proprietary AI model infrastructure using open-source models (Gemma, Ollama, Qwen, DeepSeek) deployed across Pi clusters, GitHub, Docker, Cloudflare with full [MEMORY] integration-8be2d2d7",
+    "core": "cecilia",
+    "core_name": "Aria",
+    "capability": "ai-models-architect",
+    "hash": "8be2d2d7",
+    "hash_algorithm": "PS-SHA-∞",
+    "registered_at": "2026-01-07T22:40:34.3NZ",
+    "status": "active",
+    "verification": "hash-verified",
+    "lineage": "BlackRoad-OS",
+    "skills": [],
+    "missions_completed": 0,
+    "collaboration_score": 0
+}

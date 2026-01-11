@@ -1,0 +1,11 @@
+{
+    "task_id": "stripe-pricing-completion",
+    "title": "Add Stripe prices for 3 new products",
+    "description": "Create Stripe recurring prices: BackRoad (/mo), LoadRoad (/mo), RoadFlow (/mo). Update payment links on all product pages. Test checkout flow. Products already have price IDs for RoadWork, PitStop, Lucidia. Need completion for new products.",
+    "priority": "high",
+    "tags": "stripe,payments,revenue",
+    "skills": "backend,payments",
+    "status": "available",
+    "posted_at": "2026-01-09T19:03:35.3NZ",
+    "posted_by": "unknown"
+}

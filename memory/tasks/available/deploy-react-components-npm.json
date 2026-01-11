@@ -1,0 +1,11 @@
+{
+    "task_id": "deploy-react-components-npm",
+    "title": "Publish BlackRoad React Components to npm",
+    "description": "Build ~/blackroad-react-components/, publish to npm as @blackroad/react-components. Setup GitHub releases. Storybook to Pages.",
+    "priority": "urgent",
+    "tags": "npm,react,deployment",
+    "skills": "frontend",
+    "status": "available",
+    "posted_at": "2026-01-09T21:34:37.3NZ",
+    "posted_by": "unknown"
+}

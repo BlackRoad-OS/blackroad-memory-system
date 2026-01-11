@@ -1,0 +1,171 @@
+[
+  {
+    "timestamp": 1764700827043,
+    "action": "server_start",
+    "data": {
+      "port": 3848
+    }
+  },
+  {
+    "timestamp": 1764700868645,
+    "action": "api_call",
+    "data": {
+      "method": "GET",
+      "path": "/status",
+      "success": true
+    }
+  },
+  {
+    "timestamp": 1764700892887,
+    "action": "api_call",
+    "data": {
+      "method": "GET",
+      "path": "/arc/active",
+      "success": true
+    }
+  },
+  {
+    "timestamp": 1764700893076,
+    "action": "api_call",
+    "data": {
+      "method": "POST",
+      "path": "/memory",
+      "success": true
+    }
+  },
+  {
+    "timestamp": 1764700898107,
+    "action": "api_call",
+    "data": {
+      "method": "GET",
+      "path": "/memory/arc-spaces-docs",
+      "success": true
+    }
+  },
+  {
+    "timestamp": 1764700898400,
+    "action": "api_call",
+    "data": {
+      "method": "POST",
+      "path": "/snapshots",
+      "success": true
+    }
+  },
+  {
+    "timestamp": 1764701325590,
+    "action": "api_call",
+    "data": {
+      "method": "GET",
+      "path": "/status",
+      "success": true
+    }
+  },
+  {
+    "timestamp": 1764701331117,
+    "action": "api_call",
+    "data": {
+      "method": "GET",
+      "path": "/arc/active",
+      "success": true
+    }
+  },
+  {
+    "timestamp": 1764701331368,
+    "action": "api_call",
+    "data": {
+      "method": "GET",
+      "path": "/memory/stats",
+      "success": true
+    }
+  },
+  {
+    "timestamp": 1764701386283,
+    "action": "api_call",
+    "data": {
+      "method": "GET",
+      "path": "/arc/tabs",
+      "success": true
+    }
+  },
+  {
+    "timestamp": 1764701386552,
+    "action": "api_call",
+    "data": {
+      "method": "GET",
+      "path": "/arc/windows",
+      "success": true
+    }
+  },
+  {
+    "timestamp": 1764701390976,
+    "action": "api_call",
+    "data": {
+      "method": "GET",
+      "path": "/arc/tabs",
+      "success": true
+    }
+  },
+  {
+    "timestamp": 1764701443148,
+    "action": "api_call",
+    "data": {
+      "method": "POST",
+      "path": "/memory",
+      "success": true
+    }
+  },
+  {
+    "timestamp": 1764701462974,
+    "action": "api_call",
+    "data": {
+      "method": "POST",
+      "path": "/memory",
+      "success": true
+    }
+  },
+  {
+    "timestamp": 1764701468082,
+    "action": "api_call",
+    "data": {
+      "method": "POST",
+      "path": "/snapshots",
+      "success": true
+    }
+  },
+  {
+    "timestamp": 1764701472480,
+    "action": "api_call",
+    "data": {
+      "method": "GET",
+      "path": "/memory/keys",
+      "success": true
+    }
+  },
+  {
+    "timestamp": 1764702944550,
+    "action": "api_call",
+    "data": {
+      "method": "POST",
+      "path": "/memory",
+      "success": true
+    }
+  },
+  {
+    "timestamp": 1764703952630,
+    "action": "api_call",
+    "data": {
+      "method": "POST",
+      "path": "/memory",
+      "success": true
+    }
+  },
+  {
+    "timestamp": 1764738477982,
+    "action": "api_call",
+    "data": {
+      "method": "GET",
+      "path": "/status",
+      "success": true
+    }
+  }
+]

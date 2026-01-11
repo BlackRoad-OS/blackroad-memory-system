@@ -1,0 +1,8 @@
+# Large directories
+hardware/
+browser-data/
+agent-ecosystem/
+
+# Temp files
+*.tmp
+*.log

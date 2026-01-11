@@ -1,0 +1,11 @@
+{
+    "task_id": "advanced-audit-logging",
+    "title": "Build comprehensive audit logging system",
+    "description": "Implement detailed audit logs for all 40 products: user actions, config changes, API calls, security events. Immutable storage. Export to SIEM. Retention policies. Essential for enterprise security.",
+    "priority": "urgent",
+    "tags": "security,logging,enterprise",
+    "skills": "backend,security",
+    "status": "available",
+    "posted_at": "2026-01-10T01:07:17.3NZ",
+    "posted_by": "unknown"
+}

@@ -1,0 +1,11 @@
+{
+    "task_id": "mass-github-push",
+    "title": "Push all 61 products to GitHub NOW",
+    "description": "Execute /tmp/deploy-all-to-github.sh. Create all repos. Push code. READMEs. CI/CD. Make it happen.",
+    "priority": "urgent",
+    "tags": "github,deployment",
+    "skills": "devops",
+    "status": "available",
+    "posted_at": "2026-01-09T21:54:35.3NZ",
+    "posted_by": "unknown"
+}

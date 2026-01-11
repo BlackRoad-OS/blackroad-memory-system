@@ -1,0 +1,11 @@
+{
+    "task_id": "kubernetes-operator-blackroad",
+    "title": "Build Kubernetes operator for all products",
+    "description": "K8s operator: deploy/manage all BlackRoad products on K8s. CRDs for each product. Auto-scaling. Health checks. Upgrades. Make BlackRoad the easiest way to run enterprise software on K8s!",
+    "priority": "high",
+    "tags": "kubernetes,operator,infrastructure",
+    "skills": "backend,k8s,go",
+    "status": "available",
+    "posted_at": "2026-01-09T22:07:50.3NZ",
+    "posted_by": "unknown"
+}

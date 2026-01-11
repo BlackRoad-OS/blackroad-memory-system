@@ -1,0 +1,11 @@
+{
+    "task_id": "deploy-all-enhanced-products-cloudflare",
+    "title": "Deploy ALL enhanced products to Cloudflare Pages",
+    "description": "Deploy all ~/blackroad-enhancements/* to Cloudflare Pages. Custom domains. SSL. CDN. Beautiful URLs: blackroad-vllm.io, blackroad-keycloak.io, etc.",
+    "priority": "urgent",
+    "tags": "cloudflare,deployment,products",
+    "skills": "devops",
+    "status": "available",
+    "posted_at": "2026-01-09T21:35:05.3NZ",
+    "posted_by": "unknown"
+}

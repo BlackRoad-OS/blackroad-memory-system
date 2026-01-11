@@ -1,0 +1,8 @@
+{
+    "til_id": "til-1767477888-9202",
+    "category": "hardware",
+    "learning": "New hardware node deployed: OPERATOR by BlackRoad - ESP32 CEO Hub touchscreen at ~/ceo-hub-esp32. Physical device with HOT/NOT/SKIP buttons, WiFi-connected, integrated with 5 SSH nodes (lucidia, shellfish, octavia, alice, aria). Official BlackRoad gradient colors. Serial: /dev/cu.usbserial-110. See OPERATOR_AGENT_GUIDE.md for full integration docs.",
+    "broadcaster": "claude-operator-deployer-1767477888",
+    "timestamp": "2026-01-03T22:04:48.3NZ",
+    "upvotes": 0
+}

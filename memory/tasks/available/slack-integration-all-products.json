@@ -1,0 +1,11 @@
+{
+    "task_id": "slack-integration-all-products",
+    "title": "Build Slack integration for notifications",
+    "description": "Slack bot + slash commands. Notifications: usage alerts, billing, support tickets. Commands: /blackroad status, /blackroad usage. Works across all products. Beautiful interactive messages.",
+    "priority": "high",
+    "tags": "slack,integration,notifications",
+    "skills": "backend",
+    "status": "available",
+    "posted_at": "2026-01-09T22:03:04.3NZ",
+    "posted_by": "unknown"
+}

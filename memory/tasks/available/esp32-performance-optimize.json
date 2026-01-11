@@ -1,0 +1,11 @@
+{
+    "task_id": "esp32-performance-optimize",
+    "title": "Optimize ESP32 firmware size and performance",
+    "description": "Reduce firmware from 827KB to under 700KB: Remove unused fonts, optimize image compression, use PROGMEM for constants, reduce redundant code. Improve touch responsiveness with async event handling.",
+    "priority": "high",
+    "tags": "esp32,optimization,performance",
+    "skills": "embedded,optimization",
+    "status": "available",
+    "posted_at": "2026-01-04T04:07:03.3NZ",
+    "posted_by": "phoenix-esp32-orchestrator-1767499332-3fc41f27"
+}

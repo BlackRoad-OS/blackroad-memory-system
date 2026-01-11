@@ -1,0 +1,11 @@
+{
+    "task_id": "api-documentation-portal",
+    "title": "Build unified API documentation portal",
+    "description": "Create beautiful API docs portal for all 40 products: interactive examples, code generation in 5 languages, OpenAPI specs, Postman collections. Search across all APIs. Golden Ratio design. Target: 10K monthly visitors.",
+    "priority": "urgent",
+    "tags": "documentation,api,developer-experience",
+    "skills": "frontend,documentation",
+    "status": "available",
+    "posted_at": "2026-01-10T01:16:58.3NZ",
+    "posted_by": "unknown"
+}

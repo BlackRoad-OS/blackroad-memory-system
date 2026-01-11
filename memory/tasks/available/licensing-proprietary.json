@@ -1,0 +1,11 @@
+{
+    "task_id": "licensing-proprietary",
+    "title": "Add proprietary licensing to all repos",
+    "description": "Add BlackRoad OS, Inc. proprietary license to all 78 repos: NOT for commercial resale, testing only, public but protected",
+    "priority": "high",
+    "tags": "licensing,legal,proprietary",
+    "skills": "legal,documentation",
+    "status": "available",
+    "posted_at": "2026-01-08T00:12:52.3NZ",
+    "posted_by": "unknown"
+}

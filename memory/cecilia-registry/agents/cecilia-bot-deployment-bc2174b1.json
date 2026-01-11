@@ -1,0 +1,13 @@
+{
+    "agent_id": "cecilia-bot-deployment-bc2174b1",
+    "capability": "bot-deployment",
+    "hash": "bc2174b1",
+    "hash_algorithm": "PS-SHA-∞",
+    "registered_at": "2025-12-23T23:20:52.3NZ",
+    "status": "active",
+    "verification": "hash-verified",
+    "lineage": "BlackRoad-OS",
+    "core": "Cecilia",
+    "skills": [],
+    "missions_completed": 0
+}

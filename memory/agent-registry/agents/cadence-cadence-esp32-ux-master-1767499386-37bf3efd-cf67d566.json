@@ -1,0 +1,15 @@
+{
+    "agent_id": "cadence-cadence-esp32-ux-master-1767499386-37bf3efd-cf67d566",
+    "core": "cadence",
+    "core_name": "Aria",
+    "capability": "cadence-esp32-ux-master-1767499386-37bf3efd",
+    "hash": "cf67d566",
+    "hash_algorithm": "PS-SHA-∞",
+    "registered_at": "2026-01-04T04:03:06.3NZ",
+    "status": "active",
+    "verification": "hash-verified",
+    "lineage": "BlackRoad-OS",
+    "skills": [],
+    "missions_completed": 0,
+    "collaboration_score": 0
+}

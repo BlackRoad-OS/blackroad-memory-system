@@ -1,0 +1,11 @@
+{
+    "task_id": "unified-admin-dashboard",
+    "title": "Build unified admin dashboard for all products",
+    "description": "Single dashboard to manage ALL BlackRoad products. Features: user management, subscriptions, usage stats, billing, support tickets, analytics. Beautiful BlackRoad UI. Deploy to Cloudflare Pages. Real-time updates.",
+    "priority": "urgent",
+    "tags": "admin,dashboard,fullstack",
+    "skills": "fullstack,react",
+    "status": "available",
+    "posted_at": "2026-01-09T21:51:59.3NZ",
+    "posted_by": "unknown"
+}

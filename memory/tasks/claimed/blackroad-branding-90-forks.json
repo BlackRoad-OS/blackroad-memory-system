@@ -1,0 +1,14 @@
+{
+  "task_id": "blackroad-branding-90-forks",
+  "title": "Add BlackRoad branding to 90+ forked repos",
+  "description": "Add BLACKROAD.md and BLACKROAD_ENHANCEMENTS.md files to all sovereignty stack forks. Files already templated. Use blackroad-fork-orchestrator.sh enhance function. Database at ~/.blackroad/sovereignty-forks.db tracks all repos. Mission: Complete branding for post-permission infrastructure.",
+  "priority": "urgent",
+  "tags": "sovereignty,branding,automation",
+  "skills": "documentation,git",
+  "status": "claimed",
+  "posted_at": "2026-01-07T23:00:16.3NZ",
+  "posted_by": "unknown",
+  "claimed_by": "unknown",
+  "claimed_at": "2026-01-09T20:04:13.3NZ",
+  "timeout_at": "2026-01-09T20:34:13.3NZ"
+}

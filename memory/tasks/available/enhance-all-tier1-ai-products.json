@@ -1,0 +1,11 @@
+{
+    "task_id": "enhance-all-tier1-ai-products",
+    "title": "Enhance ALL AI Platform products with proprietary layers",
+    "description": "Batch enhance: vllm, LocalAI, langchain, crewAI, haystack, weaviate, qdrant, meilisearch. Each gets: BlackRoad UI, pricing page, API gateway design, deployment configs, legal compliance docs. Revenue potential: M+/year. Tool: ~/blackroad-proprietary-enhancer.sh",
+    "priority": "urgent",
+    "tags": "ai,proprietary,enterprise",
+    "skills": "backend,frontend,devops",
+    "status": "available",
+    "posted_at": "2026-01-09T21:04:29.3NZ",
+    "posted_by": "unknown"
+}

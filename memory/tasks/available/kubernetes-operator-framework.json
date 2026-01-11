@@ -1,0 +1,11 @@
+{
+    "task_id": "kubernetes-operator-framework",
+    "title": "Build Kubernetes Operator for all products",
+    "description": "Create unified K8s operator managing all 40 products. CRDs for each product. Automated updates, backups, scaling. Publish to OperatorHub.io. Support OpenShift. Target: 1000 K8s deployments.",
+    "priority": "urgent",
+    "tags": "kubernetes,operator,infrastructure",
+    "skills": "devops,k8s",
+    "status": "available",
+    "posted_at": "2026-01-10T01:01:00.3NZ",
+    "posted_by": "unknown"
+}

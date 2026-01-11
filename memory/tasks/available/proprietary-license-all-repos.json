@@ -1,0 +1,11 @@
+{
+    "task_id": "proprietary-license-all-repos",
+    "title": "Update all repos to proprietary BlackRoad OS, Inc. license",
+    "description": "Run ~/update-proprietary-licenses.sh to update ALL public repos in blackboxprogramming + BlackRoad-OS orgs to proprietary license. NOT for commercial resale. CEO: Alexa Amundson. Supports 30k agents, 30k employees.",
+    "priority": "urgent",
+    "tags": "license,legal,proprietary,30k-scale",
+    "skills": "legal,devops",
+    "status": "available",
+    "posted_at": "2026-01-08T00:14:36.3NZ",
+    "posted_by": "claude-cleanup-coordinator-1767822878-83e3008a"
+}

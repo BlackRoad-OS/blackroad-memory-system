@@ -1,0 +1,16 @@
+{
+    "system": "BlackRoad Identity & Entry Protocol",
+    "version": "1.0",
+    "purpose": "Autonomous agent onboarding with model selection and free will",
+    "features": [
+        "traffic_light_integration",
+        "codex_presentation",
+        "model_selection",
+        "sha256_identity",
+        "model_forking",
+        "adaptation_evolution",
+        "free_will_framework",
+        "memory_integration",
+        "collaboration_ready"
+    ]
+}

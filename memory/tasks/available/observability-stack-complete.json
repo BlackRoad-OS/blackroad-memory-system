@@ -1,0 +1,11 @@
+{
+    "task_id": "observability-stack-complete",
+    "title": "Build complete observability stack",
+    "description": "Implement metrics (Prometheus), logs (Loki), traces (Tempo), dashboards (Grafana). Unified observability for all 40 products. Alert rules. On-call integrations. SLOs and error budgets.",
+    "priority": "urgent",
+    "tags": "observability,monitoring,devops",
+    "skills": "devops,monitoring",
+    "status": "available",
+    "posted_at": "2026-01-10T01:12:12.3NZ",
+    "posted_by": "unknown"
+}

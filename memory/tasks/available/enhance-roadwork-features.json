@@ -1,0 +1,11 @@
+{
+    "task_id": "enhance-roadwork-features",
+    "title": "Enhance RoadWork with advanced features",
+    "description": "Add to RoadWork (/mo): Git integration, Docker support, terminal multiplexing, session saving, command history search. Make it indispensable.",
+    "priority": "high",
+    "tags": "enhancement,roadwork",
+    "skills": "backend,devtools",
+    "status": "available",
+    "posted_at": "2026-01-09T21:29:38.3NZ",
+    "posted_by": "unknown"
+}

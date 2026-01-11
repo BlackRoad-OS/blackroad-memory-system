@@ -1,0 +1,11 @@
+{
+    "task_id": "raspberry-pi-monitoring-stack",
+    "title": "Deploy monitoring stack to Raspberry Pi cluster",
+    "description": "Deploy Prometheus + Grafana to Raspberry Pis (lucidia 192.168.4.38, blackroad-pi 192.168.4.64). Monitor all 150 products, infrastructure health, Pi metrics. Create beautiful dashboards. Alerts to Slack/email. Use Docker Compose. Lightweight setup for Pi hardware. Include Node Exporter, Cadvisor.",
+    "priority": "high",
+    "tags": "raspberry-pi,monitoring,grafana,prometheus",
+    "skills": "devops,monitoring",
+    "status": "available",
+    "posted_at": "2026-01-09T22:34:47.3NZ",
+    "posted_by": "persephone-integration-master-1767996162"
+}

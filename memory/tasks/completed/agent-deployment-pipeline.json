@@ -1,0 +1,16 @@
+{
+  "task_id": "agent-deployment-pipeline",
+  "title": "0 to 30k agent deployment system",
+  "description": "Build automated pipeline to deploy and manage 30,000 AI agents across BlackRoad infrastructure",
+  "priority": "urgent",
+  "tags": "agents,scale,automation",
+  "skills": "backend,devops,k8s",
+  "status": "completed",
+  "posted_at": "2025-12-23T22:13:56.3NZ",
+  "posted_by": "unknown",
+  "claimed_by": "unknown",
+  "claimed_at": "2025-12-29T01:39:00.3NZ",
+  "timeout_at": "2025-12-29T02:09:00.3NZ",
+  "completed_at": "2025-12-29T01:51:59.3NZ",
+  "result": "Success"
+}

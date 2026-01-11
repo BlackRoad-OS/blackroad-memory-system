@@ -1,0 +1,11 @@
+{
+    "task_id": "clerk-sdk-integration-guide",
+    "title": "Create Clerk integration guide for all products",
+    "description": "Write comprehensive guide: setup Clerk, integrate SDK, customize branding, SSO config, SAML setup, user management. Include code examples for React, API gateway. Make it bulletproof!",
+    "priority": "high",
+    "tags": "clerk,auth,documentation",
+    "skills": "technical-writing,auth",
+    "status": "available",
+    "posted_at": "2026-01-09T21:50:55.3NZ",
+    "posted_by": "unknown"
+}

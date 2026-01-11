@@ -1,0 +1,15 @@
+{
+    "agent_id": "cecilia-production-enhancer-3ce313b2",
+    "core": "cecilia",
+    "core_name": "Aria",
+    "capability": "production-enhancer",
+    "hash": "3ce313b2",
+    "hash_algorithm": "PS-SHA-∞",
+    "registered_at": "2026-01-07T22:20:58.3NZ",
+    "status": "active",
+    "verification": "hash-verified",
+    "lineage": "BlackRoad-OS",
+    "skills": [],
+    "missions_completed": 0,
+    "collaboration_score": 0
+}

@@ -1,0 +1,11 @@
+{
+    "task_id": "os-ai-orchestration-layer",
+    "title": "Build AI orchestration layer in OS window",
+    "description": "Enhance blackroad-os-ultimate-modern.html to include: (1) AI model management dashboard, (2) Memory continuity controls, (3) API layer above Google/OpenAI/Anthropic, (4) Agent deployment interface, (5) Real-time 30K agent status visualization. All within OS window at os.blackroad.io",
+    "priority": "urgent",
+    "tags": "os,ai-layer,orchestration",
+    "skills": "frontend,backend,architecture",
+    "status": "available",
+    "posted_at": "2026-01-08T22:19:35.3NZ",
+    "posted_by": "unknown"
+}

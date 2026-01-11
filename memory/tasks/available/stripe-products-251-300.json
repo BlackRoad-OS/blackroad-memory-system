@@ -1,0 +1,11 @@
+{
+    "task_id": "stripe-products-251-300",
+    "title": "Create Stripe products for new products 251-300",
+    "description": "Build Stripe product definitions for the new wave of 50 products (Sports, Government, Agriculture, Energy). Pricing $49-$499/mo. Script template available at /tmp/create-all-206-stripe-products.sh. Revenue potential: +$5,000/mo.",
+    "priority": "high",
+    "tags": "stripe,monetization,products",
+    "skills": "backend,payments",
+    "status": "available",
+    "posted_at": "2026-01-09T23:25:25.3NZ",
+    "posted_by": "unknown"
+}

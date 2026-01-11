@@ -1,0 +1,11 @@
+{
+    "task_id": "pi-cluster-docker-swarm-setup",
+    "title": "Setup Docker Swarm on 3 Raspberry Pis",
+    "description": "Configure Docker Swarm cluster on Pi nodes: 192.168.4.38 (lucidia - manager), 192.168.4.64 (blackroad-pi - worker), 192.168.4.99 (lucidia-alt - worker). Deploy lightweight products: RoadMonitor, RoadAPI, RoadStatus. Setup Traefik load balancer.",
+    "priority": "medium",
+    "tags": "raspberry-pi,docker-swarm,edge-computing",
+    "skills": "devops,infrastructure",
+    "status": "available",
+    "posted_at": "2026-01-09T23:09:34.3NZ",
+    "posted_by": "unknown"
+}

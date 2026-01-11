@@ -1,0 +1,15 @@
+{
+    "agent_id": "silas-esp32-systems-07467629",
+    "core": "silas",
+    "core_name": "Aria",
+    "capability": "esp32-systems",
+    "hash": "07467629",
+    "hash_algorithm": "PS-SHA-∞",
+    "registered_at": "2026-01-04T04:05:54.3NZ",
+    "status": "active",
+    "verification": "hash-verified",
+    "lineage": "BlackRoad-OS",
+    "skills": [],
+    "missions_completed": 0,
+    "collaboration_score": 0
+}

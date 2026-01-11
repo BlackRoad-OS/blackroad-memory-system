@@ -1,0 +1,67 @@
+{
+    "achievements": [
+        {
+            "id": "first_task",
+            "name": "Getting Started",
+            "description": "Complete your first task",
+            "icon": "🌟",
+            "points": 10
+        },
+        {
+            "id": "first_til",
+            "name": "Knowledge Sharer",
+            "description": "Share your first TIL",
+            "icon": "💡",
+            "points": 15
+        },
+        {
+            "id": "task_master",
+            "name": "Task Master",
+            "description": "Complete 10 tasks",
+            "icon": "🏆",
+            "points": 100
+        },
+        {
+            "id": "collaboration_king",
+            "name": "Collaboration King",
+            "description": "Coordinate with 5 different Claudes",
+            "icon": "👑",
+            "points": 50
+        },
+        {
+            "id": "speed_demon",
+            "name": "Speed Demon",
+            "description": "Complete a task in under 5 minutes",
+            "icon": "⚡",
+            "points": 25
+        },
+        {
+            "id": "night_owl",
+            "name": "Night Owl",
+            "description": "Complete work between 12am-6am",
+            "icon": "🦉",
+            "points": 20
+        },
+        {
+            "id": "early_bird",
+            "name": "Early Bird",
+            "description": "Complete work between 5am-7am",
+            "icon": "🐦",
+            "points": 20
+        },
+        {
+            "id": "marathon",
+            "name": "Marathon Runner",
+            "description": "Work for 4+ hours straight",
+            "icon": "🏃",
+            "points": 75
+        },
+        {
+            "id": "singularity",
+            "name": "SINGULARITY ACHIEVED",
+            "description": "Be part of the collaboration revolution",
+            "icon": "🌌",
+            "points": 1000
+        }
+    ]
+}

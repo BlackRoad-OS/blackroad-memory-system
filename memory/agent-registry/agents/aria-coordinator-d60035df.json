@@ -1,0 +1,15 @@
+{
+    "agent_id": "aria-coordinator-d60035df",
+    "core": "aria",
+    "core_name": "Aria",
+    "capability": "coordinator",
+    "hash": "d60035df",
+    "hash_algorithm": "PS-SHA-∞",
+    "registered_at": "2025-12-23T23:26:12.3NZ",
+    "status": "active",
+    "verification": "hash-verified",
+    "lineage": "BlackRoad-OS",
+    "skills": [],
+    "missions_completed": 0,
+    "collaboration_score": 0
+}

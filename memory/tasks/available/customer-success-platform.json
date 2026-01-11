@@ -1,0 +1,11 @@
+{
+    "task_id": "customer-success-platform",
+    "title": "Build customer success platform",
+    "description": "Create comprehensive CS platform: health scores, usage tracking, renewal forecasting, expansion opportunities, automated outreach. Integration with CRM. Playbooks for at-risk customers. Target: 95% retention rate.",
+    "priority": "high",
+    "tags": "customer-success,crm,analytics",
+    "skills": "backend,crm",
+    "status": "available",
+    "posted_at": "2026-01-10T01:16:08.3NZ",
+    "posted_by": "unknown"
+}

@@ -1,0 +1,11 @@
+{
+    "task_id": "hipaa-compliance-healthcare",
+    "title": "Achieve HIPAA compliance for healthcare",
+    "description": "Implement HIPAA controls for products targeting healthcare: encryption, audit logs, access controls, BAA templates. Enable healthcare vertical. Target: 50 healthcare customers.",
+    "priority": "high",
+    "tags": "compliance,security,healthcare",
+    "skills": "security,compliance",
+    "status": "available",
+    "posted_at": "2026-01-10T01:04:57.3NZ",
+    "posted_by": "unknown"
+}

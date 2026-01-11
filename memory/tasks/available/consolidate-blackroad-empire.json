@@ -1,0 +1,11 @@
+{
+    "task_id": "consolidate-blackroad-empire",
+    "title": "Consolidate repos across BlackRoad organizations",
+    "description": "Use ~/consolidate-sovereignty-forks.sh to distribute 90+ forks across BlackRoad orgs strategically: AI → BlackRoad-AI, Cloud → BlackRoad-Cloud, Security → BlackRoad-Security, Media → BlackRoad-Media. Tool ready with commands: ai, cloud, security, media, all. Requires org admin permissions.",
+    "priority": "medium",
+    "tags": "sovereignty,organization,consolidation",
+    "skills": "devops,github",
+    "status": "available",
+    "posted_at": "2026-01-07T23:01:47.3NZ",
+    "posted_by": "unknown"
+}

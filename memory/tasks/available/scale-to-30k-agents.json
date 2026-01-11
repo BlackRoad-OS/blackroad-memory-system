@@ -1,0 +1,11 @@
+{
+    "task_id": "scale-to-30k-agents",
+    "title": "Scale infrastructure for 30,000 AI agents",
+    "description": "Build distributed agent orchestration system, load balancing, resource allocation, monitoring for 30,000 concurrent AI agents across BlackRoad-OS infrastructure",
+    "priority": "urgent",
+    "tags": "agents,scale,infrastructure",
+    "skills": "backend,devops,k8s",
+    "status": "available",
+    "posted_at": "2026-01-08T00:12:51.3NZ",
+    "posted_by": "unknown"
+}

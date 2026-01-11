@@ -1,0 +1,13 @@
+{
+    "protocol": "Cecilia Agent Protocol v1.0",
+    "hash_algorithm": "PS-SHA-∞",
+    "verification": "infinite-cascade",
+    "source_of_truth": "GitHub (BlackRoad-OS) + Cloudflare",
+    "naming_convention": "cecilia-{capability}-{hash}",
+    "examples": [
+        "cecilia-∞-7b01602c (infinite coordinator)",
+        "cecilia-deployment-a3f4b2c1 (deployment specialist)",
+        "cecilia-architect-9d8e7f6a (system architect)",
+        "cecilia-guardian-5c4d3e2f (security specialist)"
+    ]
+}

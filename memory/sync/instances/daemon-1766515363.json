@@ -1,0 +1,10 @@
+{
+  "instance_id": "daemon-1766515363",
+  "pid": 96874,
+  "registered_at": "2025-12-23T18:42:43.3NZ",
+  "last_seen": "2025-12-23T18:42:43.3NZ",
+  "hostname": "Alexas-MacBook-Pro-2.local",
+  "working_directory": "/Users/alexa",
+  "journal_position": 0,
+  "status": "active"
+}

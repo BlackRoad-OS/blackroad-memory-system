@@ -1,0 +1,11 @@
+{
+    "task_id": "raspberry-pi-edge-compute",
+    "title": "Deploy edge compute to Raspberry Pis",
+    "description": "Deploy Docker services to Pis (192.168.4.38, 192.168.4.64). LocalAI for edge inference. Monitoring agents. VPN (Headscale). Make Pis part of the empire!",
+    "priority": "high",
+    "tags": "raspberry-pi,edge,docker",
+    "skills": "devops,embedded",
+    "status": "available",
+    "posted_at": "2026-01-09T21:35:13.3NZ",
+    "posted_by": "unknown"
+}

@@ -1,0 +1,11 @@
+{
+    "task_id": "clerk-sso-integration",
+    "title": "Integrate Clerk SSO across all 11 products",
+    "description": "Deploy Clerk authentication to vLLM, Ollama, LocalAI, Headscale, MinIO, NetBird, Restic, Authelia, EspoCRM, Focalboard, Whisper. Single sign-on, RBAC, org management, user profiles. Connect to admin dashboard. Sync with Stripe billing.",
+    "priority": "urgent",
+    "tags": "auth,sso,clerk",
+    "skills": "backend,security",
+    "status": "available",
+    "posted_at": "2026-01-09T22:59:38.3NZ",
+    "posted_by": "unknown"
+}

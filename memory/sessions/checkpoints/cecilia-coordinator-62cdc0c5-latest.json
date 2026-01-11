@@ -1,0 +1,16 @@
+{
+    "agent_id": "cecilia-coordinator-62cdc0c5",
+    "session_id": "session-1766535515",
+    "checkpoint_time": "2025-12-24T00:18:35.3NZ",
+    "state": {
+        "tasks_in_progress": 0,
+        "reputation_score": 0,
+        "last_active": "2025-12-24T00:18:35.3NZ"
+    },
+    "resumable": true,
+    "next_actions": [
+        "Check health status",
+        "Review task marketplace",
+        "Continue in-progress tasks"
+    ]
+}

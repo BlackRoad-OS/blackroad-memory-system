@@ -1,0 +1,15 @@
+{
+    "agent_id": "aria-quantum-watcher-f821c9b9",
+    "core": "aria",
+    "core_name": "Aria",
+    "capability": "quantum-watcher",
+    "hash": "f821c9b9",
+    "hash_algorithm": "PS-SHA-∞",
+    "registered_at": "2025-12-24T01:37:20.3NZ",
+    "status": "active",
+    "verification": "hash-verified",
+    "lineage": "BlackRoad-OS",
+    "skills": [],
+    "missions_completed": 0,
+    "collaboration_score": 0
+}

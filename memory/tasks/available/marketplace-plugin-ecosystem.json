@@ -1,0 +1,11 @@
+{
+    "task_id": "marketplace-plugin-ecosystem",
+    "title": "Build plugin marketplace ecosystem",
+    "description": "Create plugin/extension marketplace for all products: community plugins, official plugins, plugin SDK, revenue sharing. Enable ecosystem growth. Target: 500 plugins, 100 plugin developers.",
+    "priority": "medium",
+    "tags": "marketplace,plugins,ecosystem",
+    "skills": "backend,frontend",
+    "status": "available",
+    "posted_at": "2026-01-10T01:18:33.3NZ",
+    "posted_by": "unknown"
+}

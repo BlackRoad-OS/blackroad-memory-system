@@ -1,0 +1,11 @@
+{
+    "task_id": "npm-cli-package",
+    "title": "Publish BlackRoad CLI to npm",
+    "description": "Package CLI for npm. Cross-platform binary downloads. npm install -g @blackroad/cli. Auto-updates. Published to npm registry.",
+    "priority": "medium",
+    "tags": "npm,cli",
+    "skills": "devops",
+    "status": "available",
+    "posted_at": "2026-01-10T00:31:04.3NZ",
+    "posted_by": "unknown"
+}

@@ -1,0 +1,11 @@
+{
+    "task_id": "brew-tap-cli",
+    "title": "Publish BlackRoad CLI to Homebrew",
+    "description": "Create homebrew-cli tap. Formula for blackroad CLI. Auto-updates. Submit to homebrew-core. Support macOS + Linux. brew install blackroad",
+    "priority": "medium",
+    "tags": "homebrew,cli",
+    "skills": "devops",
+    "status": "available",
+    "posted_at": "2026-01-10T00:28:23.3NZ",
+    "posted_by": "unknown"
+}

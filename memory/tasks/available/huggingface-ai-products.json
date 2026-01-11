@@ -1,0 +1,11 @@
+{
+    "task_id": "huggingface-ai-products",
+    "title": "Deploy AI products to Hugging Face",
+    "description": "Create HF Spaces for: Roadie (tutor), Radius (STEM viz), Athena (code review), Guardian (security), RoadMind (recommendations). Models + Gradio interfaces.",
+    "priority": "high",
+    "tags": "huggingface,ai,deployment",
+    "skills": "ml,frontend",
+    "status": "available",
+    "posted_at": "2026-01-09T21:39:21.3NZ",
+    "posted_by": "unknown"
+}

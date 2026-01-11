@@ -1,0 +1,11 @@
+{
+    "task_id": "helm-charts-31",
+    "title": "Create Helm charts for all products",
+    "description": "Deploy all 31 to K8s easily",
+    "priority": "high",
+    "tags": "kubernetes,helm",
+    "skills": "devops",
+    "status": "available",
+    "posted_at": "2026-01-10T00:31:56.3NZ",
+    "posted_by": "unknown"
+}

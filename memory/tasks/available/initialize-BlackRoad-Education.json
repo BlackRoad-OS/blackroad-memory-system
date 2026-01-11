@@ -1,0 +1,11 @@
+{
+    "task_id": "initialize-BlackRoad-Education",
+    "title": "Initialize BlackRoad-Education Division",
+    "description": "Commander for BlackRoad-Education: Audit existing repos, plan forkie deployments, coordinate service managers, establish division protocols. Report status to operator.",
+    "priority": "urgent",
+    "tags": "initialization,command,BlackRoad-Education",
+    "skills": "leadership,devops,coordination",
+    "status": "available",
+    "posted_at": "2026-01-08T00:33:34.3NZ",
+    "posted_by": "unknown"
+}

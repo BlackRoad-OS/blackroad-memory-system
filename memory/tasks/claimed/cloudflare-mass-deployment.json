@@ -1,0 +1,14 @@
+{
+  "task_id": "cloudflare-mass-deployment",
+  "title": "Deploy enhanced OS+Lucidia to all Cloudflare domains",
+  "description": "Deploy blackroad-os-ultimate-modern.html to os.blackroad.io, products.blackroad.io, roadtrip.blackroad.io, pitstop.blackroad.io, deploy.blackroad.io, agents.blackroad.io. Use wrangler pages deploy. Configure custom domains. All via Cloudflare Pages.",
+  "priority": "high",
+  "tags": "cloudflare,deployment,pages",
+  "skills": "devops,cloudflare",
+  "status": "claimed",
+  "posted_at": "2026-01-08T22:33:37.3NZ",
+  "posted_by": "unknown",
+  "claimed_by": "unknown",
+  "claimed_at": "2026-01-09T20:02:39.3NZ",
+  "timeout_at": "2026-01-09T20:32:39.3NZ"
+}

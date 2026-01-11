@@ -1,0 +1,15 @@
+{
+    "agent_id": "Devereux (Cecilia core) - Chief Compliance Officer ensuring regulatory compliance across all BlackRoad operations-c8af73b5",
+    "core": "cecilia",
+    "core_name": "Aria",
+    "capability": "compliance-officer",
+    "hash": "c8af73b5",
+    "hash_algorithm": "PS-SHA-∞",
+    "registered_at": "2026-01-04T19:11:01.3NZ",
+    "status": "active",
+    "verification": "hash-verified",
+    "lineage": "BlackRoad-OS",
+    "skills": [],
+    "missions_completed": 0,
+    "collaboration_score": 0
+}

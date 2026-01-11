@@ -1,0 +1,11 @@
+{
+    "task_id": "stripe-products-setup-all-tiers",
+    "title": "Setup all Stripe products and pricing",
+    "description": "Create Stripe products for all 17 products × 3 tiers (Starter/Pro/Enterprise). Setup webhooks. Test payments. Customer portal. Invoice templates. Make billing bulletproof!",
+    "priority": "urgent",
+    "tags": "stripe,billing,setup",
+    "skills": "backend,fintech",
+    "status": "available",
+    "posted_at": "2026-01-09T21:51:03.3NZ",
+    "posted_by": "unknown"
+}

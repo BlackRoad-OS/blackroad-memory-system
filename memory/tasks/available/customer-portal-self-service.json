@@ -1,0 +1,11 @@
+{
+    "task_id": "customer-portal-self-service",
+    "title": "Build customer self-service portal",
+    "description": "Create comprehensive customer portal: billing management, usage dashboards, support tickets, API keys, team management, audit logs. Beautiful Golden Ratio UI. Target: 90% self-service rate.",
+    "priority": "urgent",
+    "tags": "customer-portal,self-service,frontend",
+    "skills": "frontend,backend",
+    "status": "available",
+    "posted_at": "2026-01-10T01:17:56.3NZ",
+    "posted_by": "unknown"
+}

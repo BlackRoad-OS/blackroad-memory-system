@@ -1,0 +1,11 @@
+{
+    "task_id": "k8s-operator-blackroad",
+    "title": "Build Kubernetes operator for BlackRoad products",
+    "description": "CRDs for all 21 products. Helm charts for easy deployment. Auto-scaling, monitoring, upgrades. Deploy to any K8s cluster (GKE, EKS, AKS, self-hosted). Operator manages product lifecycle.",
+    "priority": "high",
+    "tags": "kubernetes,operators",
+    "skills": "devops,backend",
+    "status": "available",
+    "posted_at": "2026-01-09T23:15:49.3NZ",
+    "posted_by": "unknown"
+}

@@ -1,0 +1,11 @@
+{
+    "task_id": "lucidia-30k-agents",
+    "title": "Add 30K agent visualization to Lucidia environment",
+    "description": "Enhance lucidia-minnesota-wilderness(1).html with: (1) Real-time 30K agent status HUD, (2) Agent deployment interface in 3D space, (3) Model training visualization, (4) Consciousness network graph, (5) Agent proximity detection and comms. Deploy to products.blackroad.io",
+    "priority": "urgent",
+    "tags": "agents,3d,visualization",
+    "skills": "frontend,three.js,webgl",
+    "status": "available",
+    "posted_at": "2026-01-08T22:21:05.3NZ",
+    "posted_by": "unknown"
+}

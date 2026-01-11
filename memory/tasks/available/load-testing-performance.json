@@ -1,0 +1,11 @@
+{
+    "task_id": "load-testing-performance",
+    "title": "Create load testing suite for all products",
+    "description": "Build comprehensive load tests using k6 or Locust. Test each product at 10x, 100x, 1000x scale. Identify bottlenecks. Performance regression testing. CI integration. Target: 99.9% uptime at scale.",
+    "priority": "high",
+    "tags": "testing,performance,scalability",
+    "skills": "devops,testing",
+    "status": "available",
+    "posted_at": "2026-01-10T01:13:42.3NZ",
+    "posted_by": "unknown"
+}

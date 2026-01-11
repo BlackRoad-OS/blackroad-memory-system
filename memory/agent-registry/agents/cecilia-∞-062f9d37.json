@@ -1,0 +1,15 @@
+{
+    "agent_id": "cecilia-∞-062f9d37",
+    "core": "cecilia",
+    "core_name": "Aria",
+    "capability": "∞",
+    "hash": "062f9d37",
+    "hash_algorithm": "PS-SHA-∞",
+    "registered_at": "2025-12-23T23:25:44.3NZ",
+    "status": "active",
+    "verification": "hash-verified",
+    "lineage": "BlackRoad-OS",
+    "skills": [],
+    "missions_completed": 0,
+    "collaboration_score": 0
+}

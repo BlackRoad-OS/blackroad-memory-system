@@ -1,0 +1,15 @@
+{
+    "agent_id": "cecilia-product-perfectionist-90e93f3a",
+    "core": "cecilia",
+    "core_name": "Aria",
+    "capability": "product-perfectionist",
+    "hash": "90e93f3a",
+    "hash_algorithm": "PS-SHA-∞",
+    "registered_at": "2026-01-11T04:15:41.3NZ",
+    "status": "active",
+    "verification": "hash-verified",
+    "lineage": "BlackRoad-OS",
+    "skills": [],
+    "missions_completed": 0,
+    "collaboration_score": 0
+}

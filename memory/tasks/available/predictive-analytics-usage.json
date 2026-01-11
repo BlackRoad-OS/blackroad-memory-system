@@ -1,0 +1,11 @@
+{
+    "task_id": "predictive-analytics-usage",
+    "title": "Build predictive analytics for usage forecasting",
+    "description": "Implement ML models predicting customer usage, churn risk, upsell opportunities. Usage forecasting for capacity planning. Alert on anomalies. Integration with admin dashboard. Target: 20% churn reduction.",
+    "priority": "high",
+    "tags": "ai,analytics,ml",
+    "skills": "backend,data-science",
+    "status": "available",
+    "posted_at": "2026-01-10T01:15:40.3NZ",
+    "posted_by": "unknown"
+}

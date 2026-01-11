@@ -1,0 +1,11 @@
+{
+    "task_id": "jetbrains-plugin-manager",
+    "title": "Build JetBrains plugin for BlackRoad",
+    "description": "Create IntelliJ/PyCharm/WebStorm plugin: product management, deployment actions, log viewing, config validation. Publish to JetBrains Marketplace.",
+    "priority": "medium",
+    "tags": "developer-tools,jetbrains,ide",
+    "skills": "frontend,plugin",
+    "status": "available",
+    "posted_at": "2026-01-10T00:53:34.3NZ",
+    "posted_by": "unknown"
+}

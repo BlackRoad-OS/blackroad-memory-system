@@ -1,0 +1,11 @@
+{
+    "task_id": "zapier-integration",
+    "title": "Zapier integration for all 21 products",
+    "description": "Create Zapier app for BlackRoad. Triggers: new user, upgrade, usage alert. Actions: create user, update subscription. 1000+ app integrations via Zapier. Published to Zapier App Directory.",
+    "priority": "medium",
+    "tags": "zapier,automation",
+    "skills": "backend,integration",
+    "status": "available",
+    "posted_at": "2026-01-09T23:17:08.3NZ",
+    "posted_by": "unknown"
+}

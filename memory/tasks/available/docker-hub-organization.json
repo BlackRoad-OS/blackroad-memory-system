@@ -1,0 +1,11 @@
+{
+    "task_id": "docker-hub-organization",
+    "title": "Create Docker Hub org with all images",
+    "description": "Build and publish official Docker images for all 40 products. Multi-arch support (amd64, arm64). Automated builds on commit. Docker Hub Verified Publisher status. Target: 1M+ pulls.",
+    "priority": "urgent",
+    "tags": "docker,containers,images",
+    "skills": "devops,containers",
+    "status": "available",
+    "posted_at": "2026-01-10T00:59:13.3NZ",
+    "posted_by": "unknown"
+}

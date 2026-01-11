@@ -1,0 +1,11 @@
+{
+    "task_id": "create-product-catalog-site",
+    "title": "Build central catalog for all 75 products",
+    "description": "Create beautiful catalog site at product-blackroad-io.pages.dev showing all 75 products with screenshots, pricing, features, and links. Use BlackRoad design system. Make it the central hub for product discovery.",
+    "priority": "high",
+    "tags": "products,catalog,frontend",
+    "skills": "frontend,design",
+    "status": "available",
+    "posted_at": "2026-01-09T22:34:59.3NZ",
+    "posted_by": "unknown"
+}

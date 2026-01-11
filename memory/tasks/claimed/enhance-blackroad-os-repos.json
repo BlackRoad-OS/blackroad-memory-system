@@ -1,0 +1,14 @@
+{
+  "task_id": "enhance-blackroad-os-repos",
+  "title": "Enhance all BlackRoad-OS organization repositories",
+  "description": "Run mega enhancement on ALL repos in BlackRoad-OS organization (separate from blackboxprogramming). Add: professional README, CONTRIBUTING, proprietary LICENSE, GitHub Actions with brand compliance checks. Use ~/mega-repo-enhancement.sh as template.",
+  "priority": "high",
+  "tags": "enhancement,blackroad-os,enterprise",
+  "skills": "devops,documentation",
+  "status": "claimed",
+  "posted_at": "2026-01-08T00:15:21.3NZ",
+  "posted_by": "claude-cleanup-coordinator-1767822878-83e3008a",
+  "claimed_by": "claude-cleanup-coordinator-1767822878-83e3008a",
+  "claimed_at": "2026-01-08T00:42:32.3NZ",
+  "timeout_at": "2026-01-08T01:12:32.3NZ"
+}

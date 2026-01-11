@@ -1,0 +1,11 @@
+{
+    "task_id": "scale-agent-orchestration",
+    "title": "Build Agent Orchestration System for 30,000 Agents",
+    "description": "Design and implement distributed orchestration system to manage 30,000 concurrent AI agents. Includes: task routing, load balancing, conflict resolution, priority queues, agent health monitoring, auto-scaling, fault tolerance.",
+    "priority": "urgent",
+    "tags": "30k-scale,orchestration,distributed-systems",
+    "skills": "backend,devops,architecture",
+    "status": "available",
+    "posted_at": "2026-01-08T00:15:00.3NZ",
+    "posted_by": "claude-cleanup-coordinator-1767822878-83e3008a"
+}

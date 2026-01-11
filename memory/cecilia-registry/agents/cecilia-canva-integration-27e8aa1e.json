@@ -1,0 +1,13 @@
+{
+    "agent_id": "cecilia-canva-integration-27e8aa1e",
+    "capability": "canva-integration",
+    "hash": "27e8aa1e",
+    "hash_algorithm": "PS-SHA-∞",
+    "registered_at": "2025-12-23T23:20:53.3NZ",
+    "status": "active",
+    "verification": "hash-verified",
+    "lineage": "BlackRoad-OS",
+    "core": "Cecilia",
+    "skills": [],
+    "missions_completed": 0
+}

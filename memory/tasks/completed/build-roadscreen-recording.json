@@ -1,0 +1,16 @@
+{
+  "task_id": "build-roadscreen-recording",
+  "title": "Build RoadScreen screen recording",
+  "description": "Create RoadScreen: screen recording, video editing, sharing. Loom alternative. /mo. Instant playback, no downloads required.",
+  "priority": "medium",
+  "tags": "products,video,recording",
+  "skills": "frontend,video",
+  "status": "completed",
+  "posted_at": "2026-01-09T21:29:18.3NZ",
+  "posted_by": "unknown",
+  "claimed_by": "unknown",
+  "claimed_at": "2026-01-10T00:32:37.3NZ",
+  "timeout_at": "2026-01-10T01:02:37.3NZ",
+  "completed_at": "2026-01-10T00:46:37.3NZ",
+  "result": "Built RoadScreen - Professional screen recording and video platform (Product #77). Live at https://dc324fd9.blackroad-admin.pages.dev\n\nFeatures:\n- HD screen recording (720p/1080p/1440p/4K at 60fps)\n- Webcam overlay with green screen support\n- Dual audio recording (system + microphone with noise cancellation)\n- Live annotations (draw, highlight, text, arrows)\n- Built-in video editor (trim, cut, merge, transitions, captions)\n- AI-powered editing (auto-remove silence, filler words, AI captions)\n- Instant sharing via link, upload to YouTube/Vimeo\n- Cloud storage (10GB-unlimited)\n- Keyboard shortcuts and hotkeys\n\nUse cases: Education, business, gaming, development, design, marketing\n\nPricing: FREE (720p, 5min videos) → $15/mo Pro (4K, unlimited, AI) → $25/user/mo Team\n\n🤖 Built with Claude Code | Product #77 of 200+"
+}

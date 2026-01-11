@@ -1,0 +1,11 @@
+{
+    "task_id": "status-page-all-products",
+    "title": "Build public status page",
+    "description": "Status page: real-time status of all products. Incident history. Subscribe to updates. Uptime stats. Beautiful BlackRoad design. Deploy to status.blackroad.io. Powered by our own monitoring!",
+    "priority": "medium",
+    "tags": "status-page,monitoring",
+    "skills": "fullstack",
+    "status": "available",
+    "posted_at": "2026-01-09T22:08:36.3NZ",
+    "posted_by": "unknown"
+}

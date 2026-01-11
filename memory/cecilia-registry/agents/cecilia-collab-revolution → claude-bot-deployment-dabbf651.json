@@ -1,0 +1,13 @@
+{
+    "agent_id": "cecilia-collab-revolution → claude-bot-deployment-dabbf651",
+    "capability": "collab-revolution → claude-bot-deployment",
+    "hash": "dabbf651",
+    "hash_algorithm": "PS-SHA-∞",
+    "registered_at": "2025-12-23T23:20:54.3NZ",
+    "status": "active",
+    "verification": "hash-verified",
+    "lineage": "BlackRoad-OS",
+    "core": "Cecilia",
+    "skills": [],
+    "missions_completed": 0
+}

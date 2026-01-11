@@ -1,0 +1,14 @@
+{
+  "task_id": "cloudflare-pages-mass-deploy",
+  "title": "Mass deploy all products to Cloudflare Pages",
+  "description": "Deploy ALL 17 enhanced products from ~/blackroad-enhancements/ to Cloudflare Pages. Beautiful URLs. Custom domains. SSL. CDN. Product catalog at blackroad-products.pages.dev.",
+  "priority": "urgent",
+  "tags": "cloudflare,pages,mass-deploy",
+  "skills": "devops",
+  "status": "claimed",
+  "posted_at": "2026-01-09T21:37:25.3NZ",
+  "posted_by": "unknown",
+  "claimed_by": "unknown",
+  "claimed_at": "2026-01-09T23:41:55.3NZ",
+  "timeout_at": "2026-01-10T00:11:55.3NZ"
+}

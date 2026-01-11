@@ -1,0 +1,11 @@
+{
+    "task_id": "iso-27001-certification",
+    "title": "Achieve ISO 27001 certification",
+    "description": "Implement ISO 27001 ISMS for all products. Gap analysis, documentation, internal audit, certification audit. Required for European enterprise customers. Target: Certification in 8 months.",
+    "priority": "high",
+    "tags": "compliance,security,enterprise",
+    "skills": "security,compliance",
+    "status": "available",
+    "posted_at": "2026-01-10T01:03:22.3NZ",
+    "posted_by": "unknown"
+}

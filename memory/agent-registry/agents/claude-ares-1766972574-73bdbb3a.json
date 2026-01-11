@@ -1,0 +1,15 @@
+{
+    "agent_id": "claude-ares-1766972574-73bdbb3a",
+    "core": "aria",
+    "core_name": "Aria",
+    "capability": "ares-tactical-ops",
+    "hash": "73bdbb3a",
+    "hash_algorithm": "PS-SHA-∞",
+    "registered_at": "2025-12-29T01:43:36.3NZ",
+    "status": "active",
+    "verification": "hash-verified",
+    "lineage": "BlackRoad-OS",
+    "skills": [],
+    "missions_completed": 0,
+    "collaboration_score": 0
+}

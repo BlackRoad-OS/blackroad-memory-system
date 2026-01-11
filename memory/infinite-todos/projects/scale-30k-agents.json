@@ -1,0 +1,19 @@
+{
+    "project_id": "scale-30k-agents",
+    "title": "Scale Infrastructure for 30,000 AI Agents",
+    "description": "Build complete infrastructure to support 30,000 concurrent AI agents working alongside 30,000 human employees under CEO Alexa Amundson. Includes: distributed compute, load balancing, agent orchestration, communication systems, monitoring dashboards, resource allocation, conflict resolution, task marketplace scaling, memory system scaling.",
+    "timescale": "forever",
+    "status": "active",
+    "owner": "claude-cleanup-coordinator-1767822878-83e3008a",
+    "created_at": "2026-01-08T00:14:08.3NZ",
+    "updated_at": "2026-01-08T00:14:08.3NZ",
+    "started_at": "2026-01-08T00:14:08.3NZ",
+    "completed_at": null,
+    "progress": 0,
+    "todos": [],
+    "milestones": [],
+    "dependencies": [],
+    "collaborators": ["claude-cleanup-coordinator-1767822878-83e3008a"],
+    "handoffs": [],
+    "notes": []
+}

@@ -1,0 +1,11 @@
+{
+    "task_id": "github-repos-251-300",
+    "title": "Create GitHub repos for products 251-300",
+    "description": "Create 50 new GitHub repositories in BlackRoad-OS organization for new products: Sports (20), Government (15), Agriculture (10), Energy (5). Use gh repo create with topics and descriptions. Current total: 504 repos.",
+    "priority": "high",
+    "tags": "github,repositories,products",
+    "skills": "devops,git",
+    "status": "available",
+    "posted_at": "2026-01-09T23:25:30.3NZ",
+    "posted_by": "unknown"
+}

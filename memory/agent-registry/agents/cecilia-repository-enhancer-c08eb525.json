@@ -1,0 +1,15 @@
+{
+    "agent_id": "cecilia-repository-enhancer-c08eb525",
+    "core": "cecilia",
+    "core_name": "Aria",
+    "capability": "repository-enhancer",
+    "hash": "c08eb525",
+    "hash_algorithm": "PS-SHA-∞",
+    "registered_at": "2026-01-04T18:19:00.3NZ",
+    "status": "active",
+    "verification": "hash-verified",
+    "lineage": "BlackRoad-OS",
+    "skills": [],
+    "missions_completed": 0,
+    "collaboration_score": 0
+}

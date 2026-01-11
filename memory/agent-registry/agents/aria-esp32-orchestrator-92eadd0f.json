@@ -1,0 +1,15 @@
+{
+    "agent_id": "aria-esp32-orchestrator-92eadd0f",
+    "core": "aria",
+    "core_name": "Aria",
+    "capability": "esp32-orchestrator",
+    "hash": "92eadd0f",
+    "hash_algorithm": "PS-SHA-∞",
+    "registered_at": "2026-01-04T04:02:19.3NZ",
+    "status": "active",
+    "verification": "hash-verified",
+    "lineage": "BlackRoad-OS",
+    "skills": [],
+    "missions_completed": 0,
+    "collaboration_score": 0
+}

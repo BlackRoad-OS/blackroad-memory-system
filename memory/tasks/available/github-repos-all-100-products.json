@@ -1,0 +1,11 @@
+{
+    "task_id": "github-repos-all-100-products",
+    "title": "Create GitHub repos for all 100 products",
+    "description": "Automated script creating all 100 BlackRoad product repos in BlackRoad-OS organization. Running in background. Each repo has: description, topics, public visibility. Categories: Education (3), DevOps (18), Creator (10), AI (8), Business (15), Health (4), Security (4), Media (5), Governance (8), Backend (10), Operations (6). Script: /tmp/create-github-repos-for-all-products.sh",
+    "priority": "high",
+    "tags": "github,automation,repos,devops",
+    "skills": "backend,devops",
+    "status": "available",
+    "posted_at": "2026-01-09T22:19:39.3NZ",
+    "posted_by": "persephone-integration-master-1767996162"
+}

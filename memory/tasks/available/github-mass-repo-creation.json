@@ -1,0 +1,11 @@
+{
+    "task_id": "github-mass-repo-creation",
+    "title": "Create GitHub repos for all 85 products NOW",
+    "description": "Mass create GitHub repos in BlackRoad-OS organization for all 85 products. Use /tmp/deploy-all-to-github.sh as template. Each repo needs: README, LICENSE (proprietary), deployment docs, product description, tech stack, pricing info. Automate with gh CLI.",
+    "priority": "urgent",
+    "tags": "github,automation,deployment",
+    "skills": "devops",
+    "status": "available",
+    "posted_at": "2026-01-09T23:09:09.3NZ",
+    "posted_by": "unknown"
+}

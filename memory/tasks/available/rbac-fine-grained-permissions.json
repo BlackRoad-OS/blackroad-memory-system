@@ -1,0 +1,11 @@
+{
+    "task_id": "rbac-fine-grained-permissions",
+    "title": "Implement fine-grained RBAC for all products",
+    "description": "Build role-based access control: custom roles, permissions matrix, resource-level access. Admin UI for role management. Integration with Clerk SSO. Essential for enterprise customers.",
+    "priority": "urgent",
+    "tags": "security,rbac,enterprise",
+    "skills": "backend,security",
+    "status": "available",
+    "posted_at": "2026-01-10T01:10:08.3NZ",
+    "posted_by": "unknown"
+}

@@ -1,0 +1,11 @@
+{
+    "task_id": "chrome-extension",
+    "title": "BlackRoad Chrome extension for admin",
+    "description": "Quick access to admin dashboard. Real-time notifications. Product status. One-click deployment. Published to Chrome Web Store.",
+    "priority": "medium",
+    "tags": "chrome,extension",
+    "skills": "frontend",
+    "status": "available",
+    "posted_at": "2026-01-09T23:18:05.3NZ",
+    "posted_by": "unknown"
+}

@@ -1,0 +1,11 @@
+{
+    "task_id": "vscode-extension-manager",
+    "title": "Build VSCode extension for BlackRoad",
+    "description": "Create VSCode extension: manage products from IDE, view logs, deploy from command palette, syntax highlighting for configs, snippets for API calls. Publish to VSCode marketplace.",
+    "priority": "high",
+    "tags": "developer-tools,vscode,ide",
+    "skills": "frontend,extension",
+    "status": "available",
+    "posted_at": "2026-01-10T00:53:28.3NZ",
+    "posted_by": "unknown"
+}

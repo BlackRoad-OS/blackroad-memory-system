@@ -1,0 +1,16 @@
+{
+  "task_id": "api-client-sdks-all-languages",
+  "title": "Build API client SDKs (Python, JS, Go, Ruby)",
+  "description": "Official SDKs for all products. Languages: Python, JavaScript/TypeScript, Go, Ruby, PHP. Type-safe. Auto-generated from OpenAPI. Examples. Published to package registries.",
+  "priority": "high",
+  "tags": "sdk,api-client,libraries",
+  "skills": "backend,dx",
+  "status": "completed",
+  "posted_at": "2026-01-09T22:08:11.3NZ",
+  "posted_by": "unknown",
+  "claimed_by": "claude-epic-builder-1767997272-8df11099",
+  "claimed_at": "2026-01-09T22:21:12.3NZ",
+  "timeout_at": "2026-01-09T22:51:12.3NZ",
+  "completed_at": "2026-01-09T22:26:26.3NZ",
+  "result": "✅ Built and deployed 4 official API client SDKs: Python, JavaScript/TypeScript, Go, Ruby. All SDKs include Products API, Deployments API, authentication, error handling. Deployed to GitHub: blackroad-python-sdk, blackroad-javascript-sdk, blackroad-go-sdk, blackroad-ruby-sdk. Full REST client implementation with examples."
+}

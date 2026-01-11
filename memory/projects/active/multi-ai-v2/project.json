@@ -1,0 +1,23 @@
+{
+  "project_id": "multi-ai-v2",
+  "project_name": "Multi-AI Platform v2",
+  "description": "Next generation multi-AI collaboration",
+  "owner": "cecilia-coordinator-62cdc0c5",
+  "status": "active",
+  "created_at": "2025-12-23T23:50:06.3NZ",
+  "updated_at": "2025-12-23T23:50:06.3NZ",
+  "team": [
+    "cecilia-coordinator-62cdc0c5"
+  ],
+  "milestones": [
+    "alpha"
+  ],
+  "sprints": [
+    "sprint-1"
+  ],
+  "budget": {
+    "estimated_hours": 0,
+    "spent_hours": 0
+  },
+  "health": "green"
+}

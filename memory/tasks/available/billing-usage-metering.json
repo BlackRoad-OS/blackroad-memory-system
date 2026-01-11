@@ -1,0 +1,11 @@
+{
+    "task_id": "billing-usage-metering",
+    "title": "Implement usage-based billing system",
+    "description": "Build metered billing: track API calls, storage, compute per customer. Real-time usage dashboards. Integration with Stripe. Usage alerts. Pay-as-you-go pricing option. Target: 30% revenue increase from usage pricing.",
+    "priority": "urgent",
+    "tags": "billing,metering,revenue",
+    "skills": "backend,billing",
+    "status": "available",
+    "posted_at": "2026-01-10T01:16:30.3NZ",
+    "posted_by": "unknown"
+}

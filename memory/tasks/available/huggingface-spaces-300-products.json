@@ -1,0 +1,11 @@
+{
+    "task_id": "huggingface-spaces-300-products",
+    "title": "Deploy AI products to HuggingFace Spaces",
+    "description": "Deploy 50+ AI-powered products to HuggingFace Spaces: RoadMind, AI Agents (Athena, Aria, Guardian, Phoenix, Apollo, Cecilia, Winston, Silas), RoadBot Framework, Agent Orchestrator. Create Gradio interfaces for each. BlackRoad design system required.",
+    "priority": "urgent",
+    "tags": "huggingface,ai,deployment",
+    "skills": "ai,frontend",
+    "status": "available",
+    "posted_at": "2026-01-09T23:25:36.3NZ",
+    "posted_by": "unknown"
+}
